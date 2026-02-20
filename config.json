@@ -1,0 +1,4888 @@
+{
+  "pages": {
+    "home": {
+      "type": "NORMAL",
+      "mode": "FIT_WINDOW",
+      "layout": {
+        "LARGE": "layout_1",
+        "MEDIUM": "layout_36",
+        "SMALL": "layout_46"
+      },
+      "isVisible": true,
+      "isDefault": true,
+      "id": "home",
+      "header": false,
+      "footer": false,
+      "label": "Page"
+    }
+  },
+  "layouts": {
+    "layout_1": {
+      "type": "FIXED",
+      "order": [
+        "2",
+        "1"
+      ],
+      "content": {
+        "1": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0px",
+            "top": "56px",
+            "width": "100.0%",
+            "height": "94.2%",
+            "right": "0px",
+            "bottom": "11px"
+          },
+          "widgetId": "widget_6",
+          "setting": {
+            "autoProps": {
+              "height": "STRETCH",
+              "width": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "2": {
+          "type": "WIDGET",
+          "widgetId": "widget_40",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "95.2%",
+            "width": "100.0%",
+            "height": "56px"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": false,
+              "top": false,
+              "bottom": true,
+              "width": "STRETCH"
+            },
+            "hCenter": false,
+            "vCenter": false
+          }
+        }
+      }
+    },
+    "layout_3": {
+      "type": "FIXED",
+      "order": [
+        "8",
+        "7",
+        "6",
+        "5",
+        "3",
+        "1",
+        "2",
+        "0",
+        "4"
+      ],
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {},
+          "widgetId": "widget_14",
+          "setting": {}
+        },
+        "1": {
+          "type": "WIDGET",
+          "bbox": {},
+          "widgetId": "widget_15"
+        },
+        "2": {
+          "type": "WIDGET",
+          "widgetId": "widget_19",
+          "bbox": {},
+          "setting": {}
+        },
+        "3": {
+          "type": "WIDGET",
+          "widgetId": "widget_93",
+          "bbox": {},
+          "setting": {}
+        },
+        "4": {
+          "type": "WIDGET",
+          "widgetId": "widget_100",
+          "bbox": {
+            "width": "360px",
+            "height": "460px"
+          },
+          "setting": {}
+        },
+        "5": {
+          "type": "WIDGET",
+          "widgetId": "widget_115",
+          "bbox": {},
+          "setting": {}
+        },
+        "6": {
+          "type": "WIDGET",
+          "widgetId": "widget_116",
+          "bbox": {},
+          "setting": {}
+        },
+        "7": {
+          "type": "WIDGET",
+          "widgetId": "widget_117",
+          "bbox": {},
+          "setting": {
+            "autoProps": {
+              "width": "AUTO",
+              "height": "AUTO"
+            }
+          }
+        },
+        "8": {
+          "type": "WIDGET",
+          "widgetId": "widget_119",
+          "bbox": {},
+          "setting": {}
+        }
+      },
+      "label": "Controller layout"
+    },
+    "layout_5": {
+      "content": {},
+      "order": []
+    },
+    "layout_7": {
+      "type": "FIXED",
+      "order": [
+        "4",
+        "5",
+        "6",
+        "1"
+      ],
+      "content": {
+        "1": {
+          "type": "WIDGET",
+          "widgetId": "widget_45",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "73.6%",
+            "bottom": "0.1%",
+            "width": "100.0%",
+            "height": "26.3%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "4": {
+          "type": "WIDGET",
+          "widgetId": "widget_18",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0.5%",
+            "bottom": "95.8%",
+            "width": "100.0%",
+            "height": "3.7%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": true,
+              "right": false,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false,
+            "lockParent": true
+          }
+        },
+        "5": {
+          "type": "WIDGET",
+          "widgetId": "widget_94",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "3.9%",
+            "bottom": "92.6%",
+            "width": "100.0%",
+            "height": "3.5%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": true,
+              "right": false,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "6": {
+          "type": "WIDGET",
+          "widgetId": "widget_120",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "7.4%",
+            "bottom": "26.4%",
+            "width": "100.0%",
+            "height": "66.2%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true
+            }
+          }
+        }
+      },
+      "label": "First"
+    },
+    "layout_14": {
+      "type": "FIXED",
+      "order": [
+        "1"
+      ],
+      "content": {
+        "1": {
+          "type": "WIDGET",
+          "widgetId": "widget_28",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "100.0%",
+            "height": "100.0%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": false,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "label": "Second"
+    },
+    "layout_15": {
+      "type": "FIXED",
+      "order": [],
+      "content": {},
+      "label": "Map FixedLayout"
+    },
+    "layout_34": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_11",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "100.0%",
+            "height": "100.0%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": false,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "type": "FIXED",
+      "order": [
+        "0"
+      ],
+      "label": "First"
+    },
+    "layout_35": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_29",
+          "bbox": {
+            "left": "0%",
+            "right": "0%",
+            "top": "0%",
+            "bottom": "0%",
+            "width": "100%",
+            "height": "100%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": false,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "type": "FIXED",
+      "order": [
+        "0"
+      ],
+      "label": "Second"
+    },
+    "layout_36": {
+      "type": "FIXED",
+      "order": [
+        "2",
+        "1"
+      ],
+      "content": {
+        "1": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0px",
+            "top": "50.00px",
+            "width": "100%",
+            "height": "100%",
+            "right": "0px",
+            "bottom": "0px"
+          },
+          "widgetId": "widget_31",
+          "setting": {
+            "autoProps": {
+              "height": "STRETCH",
+              "width": "STRETCH",
+              "top": false,
+              "bottom": false,
+              "left": false,
+              "right": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "2": {
+          "type": "WIDGET",
+          "widgetId": "widget_41",
+          "bbox": {
+            "left": "0%",
+            "right": "0%",
+            "top": "0%",
+            "bottom": "94.9%",
+            "width": "100%",
+            "height": "50.00px"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": false,
+              "top": false,
+              "bottom": true,
+              "width": "STRETCH"
+            },
+            "hCenter": false,
+            "vCenter": false
+          }
+        }
+      }
+    },
+    "layout_38": {
+      "type": "FIXED",
+      "order": [
+        "1",
+        "0",
+        "2"
+      ],
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {},
+          "widgetId": "widget_14",
+          "setting": {}
+        },
+        "1": {
+          "type": "WIDGET",
+          "bbox": {},
+          "widgetId": "widget_15"
+        },
+        "2": {
+          "type": "WIDGET",
+          "widgetId": "widget_19",
+          "bbox": {},
+          "setting": {}
+        }
+      },
+      "label": "Controller layout"
+    },
+    "layout_39": {
+      "content": {},
+      "order": []
+    },
+    "layout_40": {
+      "type": "FIXED",
+      "order": [
+        "0"
+      ],
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_32",
+          "bbox": {
+            "left": "0%",
+            "right": "0%",
+            "top": "0%",
+            "bottom": "0%",
+            "width": "100%",
+            "height": "100%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": false,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "label": "First"
+    },
+    "layout_41": {
+      "type": "FIXED",
+      "order": [
+        "0"
+      ],
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0%",
+            "right": "0%",
+            "top": "0%",
+            "bottom": "0%",
+            "width": "100%",
+            "height": "100%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": false,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "label": "Second"
+    },
+    "layout_42": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_29",
+          "bbox": {
+            "left": "0%",
+            "right": "0%",
+            "top": "0%",
+            "bottom": "0%",
+            "width": "100%",
+            "height": "100%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": false,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "type": "FIXED",
+      "order": [
+        "0"
+      ],
+      "label": "First"
+    },
+    "layout_43": {
+      "type": "FIXED",
+      "order": [
+        "0"
+      ],
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "60.00px",
+            "right": "1.00%",
+            "top": "16.00px",
+            "bottom": "84.6%",
+            "width": "300.00px",
+            "height": "4.6%"
+          },
+          "widgetId": "widget_18",
+          "setting": {
+            "autoProps": {
+              "right": true,
+              "left": false,
+              "top": false,
+              "bottom": true,
+              "width": "CUSTOM",
+              "height": "AUTO"
+            }
+          }
+        }
+      },
+      "label": "Map FixedLayout"
+    },
+    "layout_45": {
+      "content": {
+        "1": {
+          "type": "WIDGET",
+          "widgetId": "widget_11",
+          "bbox": {
+            "left": "0%",
+            "right": "0%",
+            "top": "0%",
+            "bottom": "0%",
+            "width": "100%",
+            "height": "100%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": false,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "type": "FIXED",
+      "order": [
+        "1"
+      ],
+      "label": "Second"
+    },
+    "layout_46": {
+      "type": "FIXED",
+      "order": [
+        "2",
+        "1"
+      ],
+      "content": {
+        "1": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0px",
+            "top": "50.00px",
+            "width": "100%",
+            "height": "100%",
+            "right": "0px",
+            "bottom": "0px"
+          },
+          "widgetId": "widget_34",
+          "setting": {
+            "autoProps": {
+              "height": "STRETCH",
+              "width": "STRETCH",
+              "top": false,
+              "bottom": false,
+              "left": false,
+              "right": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "2": {
+          "type": "WIDGET",
+          "widgetId": "widget_42",
+          "bbox": {
+            "left": "0%",
+            "right": "0%",
+            "top": "0%",
+            "bottom": "91.8%",
+            "width": "100%",
+            "height": "50px"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": false,
+              "top": false,
+              "bottom": true,
+              "width": "STRETCH"
+            },
+            "hCenter": false,
+            "vCenter": false
+          }
+        }
+      }
+    },
+    "layout_48": {
+      "type": "FIXED",
+      "order": [
+        "1",
+        "0",
+        "2"
+      ],
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {},
+          "widgetId": "widget_14",
+          "setting": {}
+        },
+        "1": {
+          "type": "WIDGET",
+          "bbox": {},
+          "widgetId": "widget_15"
+        },
+        "2": {
+          "type": "WIDGET",
+          "widgetId": "widget_19",
+          "bbox": {},
+          "setting": {}
+        }
+      },
+      "label": "Controller layout"
+    },
+    "layout_49": {
+      "content": {},
+      "order": []
+    },
+    "layout_50": {
+      "type": "FIXED",
+      "order": [
+        "0"
+      ],
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_35",
+          "bbox": {
+            "left": "0%",
+            "right": "0%",
+            "top": "0%",
+            "bottom": "0%",
+            "width": "100%",
+            "height": "100%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": false,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "label": "First"
+    },
+    "layout_51": {
+      "type": "FIXED",
+      "order": [
+        "0"
+      ],
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0%",
+            "right": "0%",
+            "top": "0%",
+            "bottom": "0%",
+            "width": "100%",
+            "height": "100%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": false,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "label": "Second"
+    },
+    "layout_52": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_29",
+          "bbox": {
+            "left": "0%",
+            "right": "0%",
+            "top": "0%",
+            "bottom": "0%",
+            "width": "100%",
+            "height": "100%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": false,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "type": "FIXED",
+      "order": [
+        "0"
+      ],
+      "label": "First"
+    },
+    "layout_53": {
+      "type": "FIXED",
+      "order": [
+        "0"
+      ],
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "50%",
+            "right": "1.00%",
+            "top": "16.00px",
+            "bottom": "84.6%",
+            "width": "98.00%",
+            "height": "4.6%"
+          },
+          "widgetId": "widget_18",
+          "setting": {
+            "autoProps": {
+              "right": true,
+              "left": false,
+              "top": false,
+              "bottom": true,
+              "width": "CUSTOM",
+              "height": "AUTO"
+            },
+            "hCenter": true
+          }
+        }
+      },
+      "label": "Map FixedLayout"
+    },
+    "layout_55": {
+      "content": {
+        "1": {
+          "type": "WIDGET",
+          "widgetId": "widget_11",
+          "bbox": {
+            "left": "0%",
+            "right": "0%",
+            "top": "0%",
+            "bottom": "0%",
+            "width": "100%",
+            "height": "100%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": false,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "type": "FIXED",
+      "order": [
+        "1"
+      ],
+      "label": "Second"
+    },
+    "layout_56": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_37",
+          "bbox": {
+            "left": "14.00px",
+            "right": "14.00px",
+            "top": "50%",
+            "bottom": "50.0%",
+            "width": "25.0%",
+            "height": "40px"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": true,
+              "width": "STRETCH",
+              "height": "CUSTOM"
+            },
+            "vCenter": true
+          }
+        }
+      },
+      "type": "FIXED",
+      "setting": {
+        "lockDescendants": true
+      },
+      "order": [
+        "0"
+      ]
+    },
+    "layout_57": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_38",
+          "bbox": {
+            "left": "14.00px",
+            "right": "300.00px",
+            "top": "50%",
+            "bottom": "22.5%",
+            "width": "25.0%",
+            "height": "28.00px"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": true,
+              "width": "STRETCH"
+            },
+            "vCenter": true
+          }
+        },
+        "1": {
+          "type": "WIDGET",
+          "widgetId": "widget_39",
+          "bbox": {
+            "left": "87.4%",
+            "right": "14.00px",
+            "top": "50%",
+            "bottom": "20.0%",
+            "width": "1.7%",
+            "height": "80.0%"
+          },
+          "setting": {
+            "autoProps": {
+              "width": "AUTO",
+              "height": "AUTO",
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": true
+          }
+        }
+      },
+      "type": "FIXED",
+      "setting": {
+        "lockDescendants": true
+      },
+      "order": [
+        "1",
+        "0"
+      ]
+    },
+    "layout_58": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_38",
+          "bbox": {
+            "left": "10.00px",
+            "right": "180.00px",
+            "top": "50%",
+            "bottom": "22.5%",
+            "width": "25.0%",
+            "height": "28.00px"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": true,
+              "width": "STRETCH"
+            },
+            "vCenter": true
+          }
+        },
+        "1": {
+          "type": "WIDGET",
+          "widgetId": "widget_39",
+          "bbox": {
+            "left": "87.4%",
+            "right": "14.00px",
+            "top": "50%",
+            "bottom": "20.0%",
+            "width": "1.7%",
+            "height": "80.0%"
+          },
+          "setting": {
+            "autoProps": {
+              "width": "AUTO",
+              "height": "AUTO",
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": true
+          }
+        }
+      },
+      "type": "FIXED",
+      "setting": {
+        "lockDescendants": true
+      },
+      "order": [
+        "1",
+        "0"
+      ]
+    },
+    "layout_59": {
+      "content": {
+        "2": {
+          "type": "WIDGET",
+          "widgetId": "widget_5",
+          "bbox": {
+            "width": "186px",
+            "height": "40px"
+          },
+          "setting": {
+            "autoProps": {
+              "height": "AUTO",
+              "width": "AUTO"
+            }
+          }
+        },
+        "3": {
+          "type": "WIDGET",
+          "widgetId": "widget_114",
+          "bbox": {
+            "width": "165px",
+            "height": "36px"
+          },
+          "setting": {
+            "autoProps": {
+              "width": "AUTO",
+              "height": "AUTO"
+            },
+            "style": {
+              "alignSelf": "center"
+            }
+          }
+        }
+      },
+      "type": "FLEX_ROW",
+      "order": [
+        "3",
+        "2"
+      ],
+      "setting": {
+        "padding": {
+          "number": [
+            0,
+            10,
+            0,
+            10
+          ],
+          "unit": "px"
+        },
+        "justifyContent": "space-between"
+      },
+      "label": "Default"
+    },
+    "layout_60": {
+      "content": {
+        "2": {
+          "type": "WIDGET",
+          "widgetId": "widget_5",
+          "bbox": {
+            "width": "374px",
+            "height": "50px"
+          },
+          "setting": {
+            "autoProps": {
+              "height": "AUTO",
+              "width": "STRETCH"
+            },
+            "style": {
+              "alignSelf": "center"
+            }
+          }
+        }
+      },
+      "type": "FLEX_ROW",
+      "order": [
+        "2"
+      ],
+      "setting": {
+        "justifyContent": "space-between",
+        "padding": {
+          "number": [
+            0,
+            10,
+            0,
+            10
+          ],
+          "unit": "px"
+        }
+      },
+      "label": "Default"
+    },
+    "layout_61": {
+      "content": {
+        "2": {
+          "type": "WIDGET",
+          "widgetId": "widget_5",
+          "bbox": {
+            "width": "40.00px",
+            "height": "50px"
+          },
+          "setting": {
+            "autoProps": {
+              "height": "AUTO",
+              "width": "CUSTOM"
+            },
+            "style": {
+              "alignSelf": "center"
+            }
+          }
+        }
+      },
+      "type": "FLEX_ROW",
+      "order": [
+        "2"
+      ],
+      "setting": {
+        "padding": {
+          "number": [
+            0,
+            10,
+            0,
+            10
+          ],
+          "unit": "px"
+        },
+        "justifyContent": "space-between"
+      },
+      "label": "Default"
+    },
+    "layout_62": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_43",
+          "bbox": {
+            "left": "50%",
+            "right": "0.0000%",
+            "top": "50%",
+            "bottom": "0.0000%",
+            "width": "90.00%",
+            "height": "90.00%"
+          },
+          "setting": {
+            "vCenter": true,
+            "hCenter": true
+          }
+        }
+      },
+      "order": [
+        "0"
+      ],
+      "setting": {
+        "lockDescendants": true
+      }
+    }
+  },
+  "widgets": {
+    "widget_5": {
+      "id": "widget_5",
+      "uri": "widgets/common/controller/",
+      "config": {
+        "behavior": {
+          "onlyOpenOne": true,
+          "displayType": "STACK",
+          "vertical": false,
+          "size": {},
+          "arrangement": "fixed",
+          "alignment": "center",
+          "overflownStyle": "ARROWS",
+          "openStarts": []
+        },
+        "appearance": {
+          "space": 0,
+          "advanced": true,
+          "card": {
+            "showLabel": false,
+            "labelGrowth": 0,
+            "avatar": {
+              "type": "primary",
+              "size": "default",
+              "shape": "rectangle"
+            },
+            "variant": {
+              "default": {
+                "bg": "var(--ref-palette-neutral-1200)",
+                "iconColor": "var(--sys-color-primary-text)"
+              },
+              "active": {
+                "bg": "var(--sys-color-primary-dark)",
+                "iconColor": "var(--sys-color-primary-text)"
+              },
+              "hover": {
+                "bg": "var(--sys-color-primary-dark)",
+                "iconColor": "var(--sys-color-primary-text)"
+              }
+            }
+          }
+        }
+      },
+      "layouts": {
+        "controller": {
+          "LARGE": "layout_3",
+          "MEDIUM": "layout_38",
+          "SMALL": "layout_48"
+        },
+        "_openwidget": {
+          "LARGE": "layout_5",
+          "MEDIUM": "layout_39",
+          "SMALL": "layout_49"
+        }
+      },
+      "widgets": [
+        "widget_14",
+        "widget_15"
+      ],
+      "version": "1.19.0",
+      "label": "Widget Controller"
+    },
+    "widget_6": {
+      "id": "widget_6",
+      "uri": "widgets/layout/sidebar/",
+      "config": {
+        "direction": "HORIZONTAL",
+        "collapseSide": "FIRST",
+        "overlay": false,
+        "size": "334px",
+        "divider": {
+          "visible": true
+        },
+        "resizable": true,
+        "toggleBtn": {
+          "visible": true,
+          "icon": "LEFT",
+          "offsetX": 15,
+          "offsetY": 0,
+          "position": "CENTER",
+          "iconSize": 18,
+          "width": 15,
+          "height": 60,
+          "color": {
+            "normal": {
+              "icon": {
+                "useTheme": true,
+                "color": "var(--sys-color-primary-text)"
+              },
+              "bg": {
+                "useTheme": false,
+                "color": "var(--sys-color-primary-main)",
+                "opacity": 0.6
+              }
+            },
+            "hover": {
+              "bg": {
+                "useTheme": false,
+                "color": "var(--sys-color-primary-dark)"
+              }
+            }
+          },
+          "expandStyle": {
+            "style": {
+              "borderRadius": "0 92px 92px 0"
+            }
+          },
+          "collapseStyle": {
+            "style": {
+              "borderRadius": "0 92px 92px 0"
+            }
+          },
+          "template": "default",
+          "border": {
+            "type": "solid",
+            "color": "var(--sys-color-primary-text)",
+            "width": "1px"
+          }
+        },
+        "defaultState": 0
+      },
+      "layouts": {
+        "FIRST": {
+          "LARGE": "layout_7"
+        },
+        "SECOND": {
+          "LARGE": "layout_14"
+        }
+      },
+      "version": "1.19.0",
+      "label": "Sidebar"
+    },
+    "widget_11": {
+      "id": "widget_11",
+      "uri": "widgets/arcgis/arcgis-map/",
+      "config": {
+        "toolConfig": {
+          "canZoom": true,
+          "canHome": true,
+          "canSearch": false,
+          "canSelect": false,
+          "canSelectState": false,
+          "canBaseMap": false,
+          "canLayers": false,
+          "canNavigation": false,
+          "canOverviewMap": false,
+          "canLocate": false,
+          "canCompass": false,
+          "canMeasure": false,
+          "canFullScreen": false,
+          "canScaleBar": true,
+          "canExtentNavigate": false
+        },
+        "isUseCustomMapState": false,
+        "initialMapState": null,
+        "initialMapDataSourceID": "7718ba0918fc4eca9e5df728dd4f67b5",
+        "scaleRange": null,
+        "customLODs": null,
+        "layoutIndex": 1,
+        "showPopupUponSelection": false,
+        "popupDockPosition": "",
+        "disablePopUp": true,
+        "clientQueryDataSourceIds": [],
+        "selectionHighlightColor": "#ff0000",
+        "selectionHighlightHaloColor": "#220b4d",
+        "disableScroll": false,
+        "toolOptions": {
+          "ScaleBar": {
+            "style": "line",
+            "unit": "metric",
+            "decimalPlace": 0,
+            "thousandSeparator": false
+          }
+        }
+      },
+      "layouts": {
+        "MapFixedLayout": {
+          "LARGE": "layout_15",
+          "MEDIUM": "layout_43",
+          "SMALL": "layout_53"
+        }
+      },
+      "version": "1.19.0",
+      "style": {
+        "borderRadius": {
+          "number": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "unit": "px"
+        }
+      },
+      "useDataSources": [
+        {
+          "dataSourceId": "7718ba0918fc4eca9e5df728dd4f67b5",
+          "mainDataSourceId": "7718ba0918fc4eca9e5df728dd4f67b5"
+        }
+      ],
+      "label": "Map",
+      "dataActions": {
+        "showOnMap": {
+          "config": {
+            "isUseCustomSymbol": true,
+            "isOperationalLayer": true,
+            "symbolOption": {
+              "pointSymbol": {
+                "type": "esriSMS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "angle": 0,
+                "xoffset": 0,
+                "yoffset": 0,
+                "size": 12,
+                "style": "esriSMSCircle",
+                "outline": {
+                  "type": "esriSLS",
+                  "color": [
+                    255,
+                    255,
+                    0,
+                    150
+                  ],
+                  "width": 1,
+                  "style": "esriSLSSolid"
+                }
+              },
+              "polylineSymbol": {
+                "type": "esriSLS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "width": 0.75,
+                "style": "esriSLSSolid"
+              },
+              "polygonSymbol": {
+                "type": "esriSFS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "outline": {
+                  "type": "esriSLS",
+                  "color": [
+                    255,
+                    255,
+                    0,
+                    150
+                  ],
+                  "width": 1,
+                  "style": "esriSLSSolid"
+                },
+                "style": "esriSFSSolid"
+              }
+            }
+          }
+        }
+      }
+    },
+    "widget_14": {
+      "id": "widget_14",
+      "uri": "widgets/arcgis/map-layers/",
+      "config": {
+        "useMapWidget": true,
+        "popup": false,
+        "goto": true,
+        "customizeLayerOptions": {
+          "widget_11-7718ba0918fc4eca9e5df728dd4f67b5": {
+            "isEnabled": true,
+            "hiddenJimuLayerViewIds": [],
+            "showJimuLayerViewIds": [
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c5a2569-layer-19",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c612aa2-layer-24",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a7a63b068-layer-61",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c6c13fb-layer-31",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c71662a-layer-35",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c770552-layer-44",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c776303-layer-45",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c7ba3f9-layer-62",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c7f02de-layer-65",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c403eea-layer-12-19a5c3197f9-layer-2",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c403eea-layer-12-19a5c37ac2d-layer-6",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c403eea-layer-12-19a5c38bc4f-layer-7",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c403eea-layer-12-19a5c3a24db-layer-8",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c403eea-layer-12-19a5c3aa030-layer-9",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c403eea-layer-12-19a5c329244-layer-4",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c403eea-layer-12-19a5c32f99c-layer-5",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c403eea-layer-12-19a5c3eeb41-layer-10",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c403eea-layer-12-19a5c3f511f-layer-11",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c5a2569-layer-19-19a5c59faf5-layer-17",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c5a2569-layer-19-19a5c56ce80-layer-14",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c5a2569-layer-19-19a5c575c40-layer-16",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c5a2569-layer-19-19a5c574e72-layer-15",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c612aa2-layer-24-19a5c5ba313-layer-20",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c612aa2-layer-24-19a5c5e1ec8-layer-21",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c612aa2-layer-24-19a5c5e76e1-layer-22",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c612aa2-layer-24-19a5c5eacf0-layer-23",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a7a63b068-layer-61-19a5cc446f2-layer-67",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c6c13fb-layer-31-19a5c6884ae-layer-26",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c6c13fb-layer-31-19a5c688c63-layer-27",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c6c13fb-layer-31-19a5c68c63e-layer-28",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c6c13fb-layer-31-19a5c6a62b0-layer-29",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c6c13fb-layer-31-19a5c6aedd5-layer-30",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c71662a-layer-35-19a5c7053d8-layer-32",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c770552-layer-44-19a5c71ea64-layer-36",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c770552-layer-44-19a5c722ed6-layer-37",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c770552-layer-44-19ab4173681-layer-593",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c776303-layer-45-19a5c75a4b1-layer-39",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c776303-layer-45-19a5c75da19-layer-41",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c776303-layer-45-19a5c76109b-layer-43",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c7ba3f9-layer-62-19a5c78a3ef-layer-46",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c7ba3f9-layer-62-19a5c78d650-layer-47",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c7ba3f9-layer-62-19a5c7901bc-layer-48",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c7ba3f9-layer-62-19a5c793597-layer-49",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c7ba3f9-layer-62-19a5c7940a0-layer-50",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c7ba3f9-layer-62-19a5c79637c-layer-51",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c7ba3f9-layer-62-19a5c7a2870-layer-52",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c7ba3f9-layer-62-19a5c7a62e9-layer-53",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c7ba3f9-layer-62-19a5c7a80fb-layer-54",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c7ba3f9-layer-62-19a5c7a9183-layer-55",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c7ba3f9-layer-62-19a5c7abca6-layer-56",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c7ba3f9-layer-62-19a5c7aece4-layer-57",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c7ba3f9-layer-62-19a5c7b0c6a-layer-58",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c7ba3f9-layer-62-19a5c7b5c99-layer-59",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c7ba3f9-layer-62-19a5c7b6804-layer-60",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c7ba3f9-layer-62-19a5c7b8ee0-layer-61",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c7f02de-layer-65-19a5c7ed895-layer-64",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c7f02de-layer-65-19a5c7ebd25-layer-63",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c403eea-layer-12"
+            ]
+          }
+        },
+        "label": true,
+        "enableLegend": false,
+        "useTickBoxes": true,
+        "reorderLayers": true,
+        "layerBatchOptions": false,
+        "expandAllLayers": false,
+        "information": false
+      },
+      "useMapWidgetIds": [
+        "widget_11"
+      ],
+      "version": "1.19.0",
+      "label": "Map Layers"
+    },
+    "widget_15": {
+      "id": "widget_15",
+      "uri": "widgets/arcgis/legend/",
+      "config": {
+        "legendMode": "show-within-extent",
+        "customizeLayerOptions": {
+          "widget_11-7718ba0918fc4eca9e5df728dd4f67b5": {
+            "isEnabled": true,
+            "hiddenJimuLayerViewIds": [],
+            "showJimuLayerViewIds": [
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c403eea-layer-12",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c5a2569-layer-19",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c612aa2-layer-24",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a7a63b068-layer-61",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c6c13fb-layer-31",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c71662a-layer-35",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c770552-layer-44",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c776303-layer-45",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c7ba3f9-layer-62",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c7f02de-layer-65",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c403eea-layer-12-19a5c3197f9-layer-2",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c403eea-layer-12-19a5c37ac2d-layer-6",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c403eea-layer-12-19a5c38bc4f-layer-7",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c403eea-layer-12-19a5c3a24db-layer-8",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c403eea-layer-12-19a5c3aa030-layer-9",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c403eea-layer-12-19a5c329244-layer-4",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c403eea-layer-12-19a5c32f99c-layer-5",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c403eea-layer-12-19a5c3eeb41-layer-10",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c403eea-layer-12-19a5c3f511f-layer-11",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c5a2569-layer-19-19a5c59faf5-layer-17",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c5a2569-layer-19-19a5c56ce80-layer-14",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c5a2569-layer-19-19a5c575c40-layer-16",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c5a2569-layer-19-19a5c574e72-layer-15",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c612aa2-layer-24-19a5c5ba313-layer-20",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c612aa2-layer-24-19a5c5e1ec8-layer-21",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c612aa2-layer-24-19a5c5e76e1-layer-22",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c612aa2-layer-24-19a5c5eacf0-layer-23",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a7a63b068-layer-61-19a5cc446f2-layer-67",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c6c13fb-layer-31-19a5c6884ae-layer-26",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c6c13fb-layer-31-19a5c688c63-layer-27",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c6c13fb-layer-31-19a5c68c63e-layer-28",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c6c13fb-layer-31-19a5c6a62b0-layer-29",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c6c13fb-layer-31-19a5c6aedd5-layer-30",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c71662a-layer-35-19a5c7053d8-layer-32",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c770552-layer-44-19a5c71ea64-layer-36",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c770552-layer-44-19a5c722ed6-layer-37",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c770552-layer-44-19ab4173681-layer-593",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c776303-layer-45-19a5c75a4b1-layer-39",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c776303-layer-45-19a5c75da19-layer-41",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c776303-layer-45-19a5c76109b-layer-43",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c7ba3f9-layer-62-19a5c78a3ef-layer-46",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c7ba3f9-layer-62-19a5c78d650-layer-47",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c7ba3f9-layer-62-19a5c7901bc-layer-48",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c7ba3f9-layer-62-19a5c793597-layer-49",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c7ba3f9-layer-62-19a5c7940a0-layer-50",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c7ba3f9-layer-62-19a5c79637c-layer-51",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c7ba3f9-layer-62-19a5c7a2870-layer-52",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c7ba3f9-layer-62-19a5c7a62e9-layer-53",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c7ba3f9-layer-62-19a5c7a80fb-layer-54",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c7ba3f9-layer-62-19a5c7a9183-layer-55",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c7ba3f9-layer-62-19a5c7abca6-layer-56",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c7ba3f9-layer-62-19a5c7aece4-layer-57",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c7ba3f9-layer-62-19a5c7b0c6a-layer-58",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c7ba3f9-layer-62-19a5c7b5c99-layer-59",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c7ba3f9-layer-62-19a5c7b6804-layer-60",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c7ba3f9-layer-62-19a5c7b8ee0-layer-61",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c7f02de-layer-65-19a5c7ed895-layer-64",
+              "widget_11-7718ba0918fc4eca9e5df728dd4f67b5-19a5c7f02de-layer-65-19a5c7ebd25-layer-63"
+            ],
+            "showRuntimeAddedLayers": true
+          }
+        }
+      },
+      "useMapWidgetIds": [
+        "widget_11"
+      ],
+      "version": "1.19.0",
+      "label": "Legend"
+    },
+    "widget_18": {
+      "uri": "widgets/common/search/",
+      "version": "1.19.0",
+      "config": {
+        "searchResultView": "Result_Panel",
+        "arrangementStyle": "Style3",
+        "maxSuggestions": 6,
+        "recentSearchesMaxNumber": 6,
+        "resultMaxNumber": 6,
+        "sourceType": "CustomSearchSources",
+        "dataSourceConfigWithMapCentric": null,
+        "datasourceConfig": [
+          {
+            "configId": "config_6",
+            "icon": null,
+            "label": "Addresses",
+            "displayLabel": true,
+            "useDataSource": {
+              "dataSourceId": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c770552-layer-44-19a5c722ed6-layer-37",
+              "mainDataSourceId": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c770552-layer-44-19a5c722ed6-layer-37",
+              "rootDataSourceId": "7718ba0918fc4eca9e5df728dd4f67b5",
+              "fields": [
+                "Prop_Address_1"
+              ]
+            },
+            "displayFields": [
+              {
+                "jimuName": "Prop_Address_1",
+                "name": "Prop_Address_1",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Prop_Address_1",
+                "format": null
+              }
+            ],
+            "searchFields": [
+              {
+                "jimuName": "Prop_Address_1",
+                "name": "Prop_Address_1",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Prop_Address_1",
+                "format": null
+              }
+            ],
+            "hint": "",
+            "searchServiceType": "FeatureService",
+            "searchExact": false,
+            "searchInCurrentMapExtent": false
+          },
+          {
+            "configId": "config_7",
+            "icon": null,
+            "label": "Select property by PID (Property_Pathway)",
+            "displayLabel": true,
+            "useDataSource": {
+              "dataSourceId": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c770552-layer-44-19a5c722ed6-layer-37",
+              "mainDataSourceId": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c770552-layer-44-19a5c722ed6-layer-37",
+              "rootDataSourceId": "7718ba0918fc4eca9e5df728dd4f67b5",
+              "fields": [
+                "PID"
+              ]
+            },
+            "displayFields": [
+              {
+                "jimuName": "PID",
+                "name": "PID",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "PID",
+                "format": null
+              }
+            ],
+            "searchFields": [
+              {
+                "jimuName": "PID",
+                "name": "PID",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "PID",
+                "format": null
+              }
+            ],
+            "hint": "",
+            "searchServiceType": "FeatureService",
+            "searchExact": false,
+            "searchInCurrentMapExtent": false
+          },
+          {
+            "configId": "config_5",
+            "icon": null,
+            "label": "Select property by owner (Property_Pathway)",
+            "displayLabel": true,
+            "useDataSource": {
+              "dataSourceId": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c770552-layer-44-19a5c722ed6-layer-37",
+              "mainDataSourceId": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c770552-layer-44-19a5c722ed6-layer-37",
+              "rootDataSourceId": "7718ba0918fc4eca9e5df728dd4f67b5",
+              "fields": [
+                "Owner_Name"
+              ]
+            },
+            "displayFields": [
+              {
+                "jimuName": "Owner_Name",
+                "name": "Owner_Name",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Owner_Name",
+                "format": null
+              }
+            ],
+            "searchFields": [
+              {
+                "jimuName": "Owner_Name",
+                "name": "Owner_Name",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "Owner_Name",
+                "format": null
+              }
+            ],
+            "hint": "Owner Name",
+            "searchServiceType": "FeatureService",
+            "searchExact": false,
+            "searchInCurrentMapExtent": false
+          },
+          {
+            "configId": "config_3",
+            "icon": null,
+            "label": "Select road by name (RoadsParent)",
+            "displayLabel": true,
+            "useDataSource": {
+              "dataSourceId": "7718ba0918fc4eca9e5df728dd4f67b5-19a7a63b068-layer-61-19a5cc446f2-layer-67",
+              "mainDataSourceId": "7718ba0918fc4eca9e5df728dd4f67b5-19a7a63b068-layer-61-19a5cc446f2-layer-67",
+              "rootDataSourceId": "7718ba0918fc4eca9e5df728dd4f67b5",
+              "fields": [
+                "RoadName"
+              ]
+            },
+            "displayFields": [
+              {
+                "jimuName": "RoadName",
+                "name": "RoadName",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "RoadName",
+                "format": null
+              }
+            ],
+            "searchFields": [
+              {
+                "jimuName": "RoadName",
+                "name": "RoadName",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "RoadName",
+                "format": null
+              }
+            ],
+            "hint": "Road Name",
+            "searchServiceType": "FeatureService",
+            "searchExact": false,
+            "searchInCurrentMapExtent": false
+          }
+        ],
+        "isAutoSelectFirstResult": false,
+        "enableFiltering": true,
+        "hint": "Postal Code, Name or Address",
+        "searchResultStyle": "Compact",
+        "isShowRecentSearches": true
+      },
+      "id": "widget_18",
+      "useUtilities": [],
+      "label": "Search",
+      "outputDataSources": [],
+      "useDataSources": [
+        {
+          "dataSourceId": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c770552-layer-44-19a5c722ed6-layer-37",
+          "mainDataSourceId": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c770552-layer-44-19a5c722ed6-layer-37",
+          "rootDataSourceId": "7718ba0918fc4eca9e5df728dd4f67b5",
+          "fields": [
+            "Prop_Address_1",
+            "PID",
+            "Owner_Name"
+          ]
+        },
+        {
+          "dataSourceId": "7718ba0918fc4eca9e5df728dd4f67b5-19a7a63b068-layer-61-19a5cc446f2-layer-67",
+          "mainDataSourceId": "7718ba0918fc4eca9e5df728dd4f67b5-19a7a63b068-layer-61-19a5cc446f2-layer-67",
+          "rootDataSourceId": "7718ba0918fc4eca9e5df728dd4f67b5",
+          "fields": [
+            "RoadName"
+          ]
+        }
+      ],
+      "style": {
+        "background": {
+          "color": "var(--sys-color-primary-text)",
+          "fillType": "fill",
+          "image": {
+            "url": ""
+          }
+        },
+        "textColor": "#1a1c1c",
+        "border": {
+          "type": "dashed",
+          "color": "var(--sys-color-primary-text)",
+          "width": "0px"
+        }
+      }
+    },
+    "widget_19": {
+      "uri": "widgets/arcgis/basemap-gallery/",
+      "version": "1.19.0",
+      "config": {
+        "customBasemaps": [
+          {
+            "id": "d2aa9090-c8d8-11f0-8748-4f1056aa5d6e-basemap-url",
+            "title": "theLIST Topographic",
+            "layerUrls": [
+              "https://services.thelist.tas.gov.au/arcgis/rest/services/Basemaps/Topographic/MapServer"
+            ],
+            "disablePopup": true
+          },
+          {
+            "id": "4d095100-c8d9-11f0-8748-4f1056aa5d6e-basemap-url",
+            "title": "theLIST TopographicGrey",
+            "layerUrls": [
+              "https://services.thelist.tas.gov.au/arcgis/rest/services/Basemaps/TopographicGrayScale/MapServer"
+            ],
+            "disablePopup": true
+          },
+          {
+            "id": "a7207a20-c8d8-11f0-8748-4f1056aa5d6e-basemap-url",
+            "title": "theLIST Ortophoto",
+            "layerUrls": [
+              "https://services.thelist.tas.gov.au/arcgis/rest/services/Basemaps/Orthophoto/MapServer"
+            ],
+            "disablePopup": true
+          },
+          {
+            "id": "5fb10320-c8d9-11f0-8748-4f1056aa5d6e-basemap-url",
+            "title": "theLIST Hillshade",
+            "layerUrls": [
+              "https://services.thelist.tas.gov.au/arcgis/rest/services/Basemaps/Hillshade/MapServer"
+            ],
+            "disablePopup": true
+          },
+          {
+            "id": "93bf1f80-c8d9-11f0-8748-4f1056aa5d6e-basemap-url",
+            "title": "theLIST SimpleBasemap",
+            "layerUrls": [
+              "https://services.thelist.tas.gov.au/arcgis/rest/services/Basemaps/SimpleBasemap/MapServer"
+            ],
+            "disablePopup": true
+          },
+          {
+            "id": "aaac6a90-c8d9-11f0-8748-4f1056aa5d6e-basemap-url",
+            "title": "theLIST HillshadeGrey",
+            "layerUrls": [
+              "https://services.thelist.tas.gov.au/arcgis/rest/services/Basemaps/HillshadeGrey/MapServer"
+            ],
+            "disablePopup": true
+          },
+          {
+            "id": "ebe0ebd0-c8d9-11f0-8748-4f1056aa5d6e-basemap-url",
+            "title": "theLIST TASMAP",
+            "layerUrls": [
+              "https://services.thelist.tas.gov.au/arcgis/rest/services/Basemaps/Tasmap25K/MapServer"
+            ],
+            "disablePopup": true
+          },
+          {
+            "id": "488b4d80-c8da-11f0-8748-4f1056aa5d6e-basemap-url",
+            "title": "High Resolution Imagery - 2024",
+            "layerUrls": [
+              "https://services.thelist.tas.gov.au/arcgis/rest/services/Basemaps/AerialPhoto2024/MapServer"
+            ],
+            "disablePopup": true
+          },
+          {
+            "id": "5acfead0-d3cc-11f0-9e82-d79b00ec9906-basemap-url",
+            "title": "Esri Imagery",
+            "layerUrls": [
+              "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer"
+            ]
+          },
+          {
+            "id": "25065b60-d493-11f0-8e1b-61c791425fcf-basemap-url",
+            "title": "No basemap",
+            "layerUrls": [
+              "https://tiles.arcgis.com/tiles/nGt4QxSblgDfeJn9/arcgis/rest/services/Blank_White_Basemap/VectorTileServer"
+            ]
+          }
+        ],
+        "basemapsType": "CUSTOM"
+      },
+      "id": "widget_19",
+      "useMapWidgetIds": [
+        "widget_11"
+      ],
+      "label": "Basemap Gallery"
+    },
+    "widget_28": {
+      "uri": "widgets/layout/sidebar/",
+      "version": "1.19.0",
+      "config": {
+        "direction": "VERTICAL",
+        "collapseSide": "SECOND",
+        "overlay": false,
+        "size": "300px",
+        "divider": {
+          "visible": true,
+          "lineStyle": {
+            "type": "solid",
+            "color": "var(--light-500)",
+            "width": "1px"
+          }
+        },
+        "resizable": true,
+        "toggleBtn": {
+          "visible": true,
+          "iconSource": 0,
+          "icon": "DOWN",
+          "offsetX": 0,
+          "offsetY": -15,
+          "position": "CENTER",
+          "iconSize": 14,
+          "width": 60,
+          "height": 15,
+          "border": {
+            "type": "solid",
+            "color": "var(--sys-color-primary-text)",
+            "width": "1px"
+          },
+          "color": {
+            "normal": {
+              "icon": {
+                "useTheme": false,
+                "color": "var(--sys-color-primary-text)"
+              },
+              "bg": {
+                "useTheme": false,
+                "color": "var(--sys-color-primary-main)"
+              }
+            },
+            "hover": {
+              "bg": {
+                "useTheme": false,
+                "color": "var(--sys-color-primary-dark)"
+              }
+            }
+          },
+          "expandStyle": {
+            "style": {
+              "borderRadius": "92px 92px 0 0"
+            }
+          },
+          "collapseStyle": {
+            "style": {
+              "borderRadius": "92px 92px 0 0"
+            }
+          }
+        },
+        "defaultState": 0
+      },
+      "id": "widget_28",
+      "layouts": {
+        "FIRST": {
+          "LARGE": "layout_34"
+        },
+        "SECOND": {
+          "LARGE": "layout_35"
+        }
+      },
+      "label": "Sidebar 2"
+    },
+    "widget_29": {
+      "uri": "widgets/common/table/",
+      "version": "1.19.0",
+      "config": {
+        "layersConfig": [],
+        "mapViewsConfig": {
+          "widget_11-7718ba0918fc4eca9e5df728dd4f67b5": {
+            "customizeLayers": true,
+            "customJimuLayerViewIds": [],
+            "layersConfig": [],
+            "displayRuntimeLayers": true
+          }
+        },
+        "tableMode": "MAP",
+        "arrangeType": "TABS",
+        "enableMapExtentFilter": false,
+        "enableRelatedRecords": false,
+        "enableAttachments": false,
+        "columnSetting": {
+          "responsiveType": "FIXED",
+          "columnWidth": 200,
+          "wrapText": false,
+          "textAlign": "start"
+        },
+        "headerFontSetting": {
+          "backgroundColor": "",
+          "fontSize": 14,
+          "bold": false,
+          "color": ""
+        },
+        "enableSelect": true,
+        "selectMode": "MULTIPLE",
+        "enableRefresh": true,
+        "enableDelete": false,
+        "enableShowHideColumn": true,
+        "showCount": true,
+        "defaultExtentFilterEnabled": false,
+        "pagingStyle": "SCROLL",
+        "pageSize": 50,
+        "respectMapRange": false
+      },
+      "id": "widget_29",
+      "useMapWidgetIds": [
+        "widget_11"
+      ],
+      "label": "Table",
+      "dataActions": {
+        "showOnMap": {
+          "config": {
+            "isUseCustomSymbol": true,
+            "isOperationalLayer": true,
+            "symbolOption": {
+              "pointSymbol": {
+                "type": "esriSMS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "angle": 0,
+                "xoffset": 0,
+                "yoffset": 0,
+                "size": 12,
+                "style": "esriSMSCircle",
+                "outline": {
+                  "type": "esriSLS",
+                  "color": [
+                    255,
+                    255,
+                    0,
+                    150
+                  ],
+                  "width": 1,
+                  "style": "esriSLSSolid"
+                }
+              },
+              "polylineSymbol": {
+                "type": "esriSLS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "width": 0.75,
+                "style": "esriSLSSolid"
+              },
+              "polygonSymbol": {
+                "type": "esriSFS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "outline": {
+                  "type": "esriSLS",
+                  "color": [
+                    255,
+                    255,
+                    0,
+                    150
+                  ],
+                  "width": 1,
+                  "style": "esriSLSSolid"
+                },
+                "style": "esriSFSSolid"
+              }
+            }
+          }
+        }
+      },
+      "useDataSources": []
+    },
+    "widget_31": {
+      "id": "widget_31",
+      "uri": "widgets/layout/sidebar/",
+      "config": {
+        "direction": "VERTICAL",
+        "collapseSide": "SECOND",
+        "overlay": false,
+        "size": "400px",
+        "divider": {
+          "visible": true
+        },
+        "resizable": true,
+        "toggleBtn": {
+          "visible": true,
+          "icon": "DOWN",
+          "offsetX": 0,
+          "offsetY": -15,
+          "position": "CENTER",
+          "iconSize": 18,
+          "width": 40,
+          "height": 15,
+          "color": {
+            "normal": {
+              "icon": {
+                "useTheme": true,
+                "color": "var(--sys-color-primary-text)"
+              },
+              "bg": {
+                "useTheme": false,
+                "color": "var(--sys-color-primary-main)",
+                "opacity": 0.6
+              }
+            },
+            "hover": {
+              "bg": {
+                "useTheme": false,
+                "color": "var(--sys-color-primary-dark)"
+              }
+            }
+          },
+          "expandStyle": {
+            "style": {
+              "borderRadius": "4px 4px 0 0"
+            }
+          },
+          "collapseStyle": {
+            "style": {
+              "borderRadius": "4px 4px 0 0"
+            }
+          },
+          "template": "rect",
+          "border": {
+            "type": "solid",
+            "color": "var(--sys-color-primary-text)",
+            "width": "1px"
+          }
+        },
+        "defaultState": 1
+      },
+      "version": "1.19.0",
+      "layouts": {
+        "FIRST": {
+          "MEDIUM": "layout_40"
+        },
+        "SECOND": {
+          "MEDIUM": "layout_41"
+        }
+      },
+      "label": "Sidebar 3"
+    },
+    "widget_32": {
+      "uri": "widgets/layout/sidebar/",
+      "version": "1.19.0",
+      "config": {
+        "direction": "VERTICAL",
+        "collapseSide": "FIRST",
+        "overlay": false,
+        "size": "200px",
+        "divider": {
+          "visible": true,
+          "lineStyle": {
+            "type": "solid",
+            "color": "var(--light-500)",
+            "width": "1px"
+          }
+        },
+        "resizable": true,
+        "toggleBtn": {
+          "visible": true,
+          "iconSource": 0,
+          "icon": "UP",
+          "offsetX": 0,
+          "offsetY": 15,
+          "position": "CENTER",
+          "iconSize": 14,
+          "width": 60,
+          "height": 15,
+          "border": {
+            "type": "solid",
+            "color": "var(--sys-color-primary-text)",
+            "width": "1px"
+          },
+          "color": {
+            "normal": {
+              "icon": {
+                "useTheme": false,
+                "color": "var(--sys-color-primary-text)"
+              },
+              "bg": {
+                "useTheme": false,
+                "color": "var(--sys-color-primary-main)"
+              }
+            },
+            "hover": {
+              "bg": {
+                "useTheme": false,
+                "color": "var(--sys-color-primary-dark)"
+              }
+            }
+          },
+          "expandStyle": {
+            "style": {
+              "borderRadius": "0 0 92px 92px"
+            }
+          },
+          "collapseStyle": {
+            "style": {
+              "borderRadius": "0 0 92px 92px"
+            }
+          }
+        },
+        "defaultState": 0
+      },
+      "id": "widget_32",
+      "layouts": {
+        "FIRST": {
+          "MEDIUM": "layout_42"
+        },
+        "SECOND": {
+          "MEDIUM": "layout_45"
+        }
+      },
+      "label": "Sidebar 4"
+    },
+    "widget_34": {
+      "id": "widget_34",
+      "uri": "widgets/layout/sidebar/",
+      "config": {
+        "direction": "VERTICAL",
+        "collapseSide": "SECOND",
+        "overlay": false,
+        "size": "300px",
+        "divider": {
+          "visible": true
+        },
+        "resizable": true,
+        "toggleBtn": {
+          "visible": true,
+          "icon": "DOWN",
+          "offsetX": 0,
+          "offsetY": -15,
+          "position": "CENTER",
+          "iconSize": 18,
+          "width": 40,
+          "height": 15,
+          "color": {
+            "normal": {
+              "icon": {
+                "useTheme": true,
+                "color": "var(--sys-color-primary-text)"
+              },
+              "bg": {
+                "useTheme": false,
+                "color": "var(--sys-color-primary-main)",
+                "opacity": 0.6
+              }
+            },
+            "hover": {
+              "bg": {
+                "useTheme": false,
+                "color": "var(--sys-color-primary-dark)"
+              }
+            }
+          },
+          "expandStyle": {
+            "style": {
+              "borderRadius": "4px 4px 0 0"
+            }
+          },
+          "collapseStyle": {
+            "style": {
+              "borderRadius": "4px 4px 0 0"
+            }
+          },
+          "template": "rect",
+          "border": {
+            "type": "solid",
+            "color": "var(--sys-color-primary-text)",
+            "width": "1px"
+          }
+        },
+        "defaultState": 1
+      },
+      "version": "1.19.0",
+      "layouts": {
+        "FIRST": {
+          "SMALL": "layout_50"
+        },
+        "SECOND": {
+          "SMALL": "layout_51"
+        }
+      },
+      "label": "Sidebar 5"
+    },
+    "widget_35": {
+      "uri": "widgets/layout/sidebar/",
+      "version": "1.19.0",
+      "config": {
+        "direction": "VERTICAL",
+        "collapseSide": "FIRST",
+        "overlay": false,
+        "size": "200px",
+        "divider": {
+          "visible": true,
+          "lineStyle": {
+            "type": "solid",
+            "color": "var(--light-500)",
+            "width": "1px"
+          }
+        },
+        "resizable": true,
+        "toggleBtn": {
+          "visible": true,
+          "iconSource": 0,
+          "icon": "UP",
+          "offsetX": 0,
+          "offsetY": 15,
+          "position": "CENTER",
+          "iconSize": 14,
+          "width": 60,
+          "height": 15,
+          "border": {
+            "type": "solid",
+            "color": "var(--sys-color-primary-text)",
+            "width": "1px"
+          },
+          "color": {
+            "normal": {
+              "icon": {
+                "useTheme": false,
+                "color": "var(--sys-color-primary-text)"
+              },
+              "bg": {
+                "useTheme": false,
+                "color": "var(--sys-color-primary-main)"
+              }
+            },
+            "hover": {
+              "bg": {
+                "useTheme": false,
+                "color": "var(--sys-color-primary-dark)"
+              }
+            }
+          },
+          "expandStyle": {
+            "style": {
+              "borderRadius": "0 0 92px 92px"
+            }
+          },
+          "collapseStyle": {
+            "style": {
+              "borderRadius": "0 0 92px 92px"
+            }
+          }
+        },
+        "defaultState": 0
+      },
+      "id": "widget_35",
+      "layouts": {
+        "FIRST": {
+          "SMALL": "layout_52"
+        },
+        "SECOND": {
+          "SMALL": "layout_55"
+        }
+      },
+      "label": "Sidebar 6"
+    },
+    "widget_37": {
+      "uri": "widgets/common/text/",
+      "version": "1.19.0",
+      "config": {
+        "placeholder": "<h5><strong style=\"color: var(--dark);\">Double click to edit text</strong></h5>",
+        "text": "<p></p>",
+        "style": {
+          "color": "var(--dark)"
+        }
+      },
+      "id": "widget_37",
+      "label": "Text 2"
+    },
+    "widget_38": {
+      "uri": "widgets/common/text/",
+      "version": "1.19.0",
+      "config": {
+        "placeholder": "<p><span style=\"color: var(--dark);\">Double click to edit text</span></p>",
+        "text": "<p></p>",
+        "style": {
+          "color": "var(--dark)"
+        }
+      },
+      "id": "widget_38",
+      "label": "Text 3"
+    },
+    "widget_39": {
+      "uri": "widgets/common/share/",
+      "version": "1.19.0",
+      "offPanel": true,
+      "config": {
+        "uiMode": "INLINE",
+        "popup": {
+          "icon": "",
+          "items": [
+            {
+              "id": "embed",
+              "enable": true
+            },
+            {
+              "id": "qrcode",
+              "enable": true
+            },
+            {
+              "id": "email",
+              "enable": true
+            },
+            {
+              "id": "facebook",
+              "enable": true
+            },
+            {
+              "id": "twitter",
+              "enable": true
+            },
+            {
+              "id": "pinterest",
+              "enable": true
+            },
+            {
+              "id": "linkedin",
+              "enable": true
+            }
+          ],
+          "tooltip": ""
+        },
+        "inline": {
+          "items": [
+            {
+              "id": "facebook",
+              "enable": true
+            },
+            {
+              "id": "twitter",
+              "enable": true
+            },
+            {
+              "id": "pinterest",
+              "enable": false
+            },
+            {
+              "id": "linkedin",
+              "enable": false
+            },
+            {
+              "id": "embed",
+              "enable": false
+            },
+            {
+              "id": "qrcode",
+              "enable": true
+            },
+            {
+              "id": "email",
+              "enable": false
+            },
+            {
+              "id": "sharelink",
+              "enable": true
+            }
+          ],
+          "design": {
+            "direction": "HORIZONTAL",
+            "hideLabel": true,
+            "btnRad": 0,
+            "btnColor": "",
+            "iconColor": "",
+            "size": "sm",
+            "labelColor": "var(--dark)"
+          }
+        }
+      },
+      "id": "widget_39",
+      "label": "Share"
+    },
+    "widget_40": {
+      "uri": "widgets/layout/flowrow/",
+      "version": "1.19.0",
+      "config": {
+        "space": 10,
+        "style": {
+          "padding": {
+            "number": [
+              0,
+              10,
+              0,
+              10
+            ],
+            "unit": "px"
+          },
+          "justifyContent": "space-between",
+          "alignItems": "stretch"
+        }
+      },
+      "id": "widget_40",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_59"
+        }
+      },
+      "style": {
+        "background": {
+          "color": "#000000",
+          "fillType": "fill",
+          "image": {
+            "url": ""
+          }
+        },
+        "textColor": "#ffffff"
+      },
+      "label": "Flow Row"
+    },
+    "widget_41": {
+      "uri": "widgets/layout/flowrow/",
+      "version": "1.19.0",
+      "config": {
+        "space": 10,
+        "style": {
+          "padding": {
+            "number": [
+              0,
+              10,
+              0,
+              10
+            ],
+            "unit": "px"
+          },
+          "justifyContent": "space-between",
+          "alignItems": "stretch"
+        }
+      },
+      "id": "widget_41",
+      "layouts": {
+        "DEFAULT": {
+          "MEDIUM": "layout_60"
+        }
+      },
+      "style": {
+        "background": {
+          "color": "var(--sys-color-primary-main)",
+          "fillType": "fill",
+          "image": {
+            "url": ""
+          }
+        }
+      },
+      "label": "Flow Row 2"
+    },
+    "widget_42": {
+      "uri": "widgets/layout/flowrow/",
+      "version": "1.19.0",
+      "config": {
+        "space": 10,
+        "style": {
+          "padding": {
+            "number": [
+              0,
+              10,
+              0,
+              10
+            ],
+            "unit": "px"
+          },
+          "justifyContent": "space-between",
+          "alignItems": "stretch"
+        }
+      },
+      "id": "widget_42",
+      "layouts": {
+        "DEFAULT": {
+          "SMALL": "layout_61"
+        }
+      },
+      "style": {
+        "background": {
+          "color": "var(--sys-color-primary-main)",
+          "fillType": "fill",
+          "image": {
+            "url": ""
+          }
+        }
+      },
+      "label": "Flow Row 3"
+    },
+    "widget_43": {
+      "uri": "widgets/common/text/",
+      "version": "1.19.0",
+      "config": {
+        "text": "<p><span style=\"font-size: 18px;\">Lorem ipsum dolor sit amet</span></p><p><br></p><p><img src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfNjE1XzIxODEpIj48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTE2IDBIMFYxNkgxNlYwWk03LjUgNS43NUM3LjUgNi4xNjQyMSA3LjE2NDIxIDYuNSA2Ljc1IDYuNUM2LjMzNTc5IDYuNSA2IDYuMTY0MjEgNiA1Ljc1QzYgNS4zMzU3OSA2LjMzNTc5IDUgNi43NSA1QzcuMTY0MjEgNSA3LjUgNS4zMzU3OSA3LjUgNS43NVpNNy4yODU3MSA5Ljg0NDM1TDUuNSA3LjUzMzI0TDMgMTAuOTk5OUgxM0w5Ljc4NTcyIDYuMzc3NjlMNy4yODU3MSA5Ljg0NDM1WiIgZmlsbD0iI2NjYyIvPjwvZz48ZGVmcz48Y2xpcFBhdGggaWQ9ImNsaXAwXzYxNV8yMTgxIj48cmVjdCB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIGZpbGw9IiM0NDQiLz48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4=\" data-name=\"svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfNjE1XzIxODEpIj48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTE2IDBIMFYxNkgxNlYwWk03LjUgNS43NUM3LjUgNi4xNjQyMSA3LjE2NDIxIDYuNSA2Ljc1IDYuNUM2LjMzNTc5IDYuNSA2IDYuMTY0MjEgNiA1Ljc1QzYgNS4zMzU3OSA2LjMzNTc5IDUgNi43NSA1QzcuMTY0MjEgNSA3LjUgNS4zMzU3OSA3LjUgNS43NVpNNy4yODU3MSA5Ljg0NDM1TDUuNSA3LjUzMzI0TDMgMTAuOTk5OUgxM0w5Ljc4NTcyIDYuMzc3NjlMNy4yODU3MSA5Ljg0NDM1WiIgZmlsbD0iI2NjYyIvPjwvZz48ZGVmcz48Y2xpcFBhdGggaWQ9ImNsaXAwXzYxNV8yMTgxIj48cmVjdCB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIGZpbGw9IiM0NDQiLz48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4=\" width=\"145\" style=\"display: block; float: left; margin: 0px 0.9em 0.9em 0px; width: 31.66%;\">Ne debet assentior qui. Zril salutandi comprehensam an qui, nam no semper temporibus dissentiet, eleifend antiopam evertitur at sed. An wisi efficiendi sit.</p><p><br></p><p>Vel ea mentitum dissentiet, partem saperet accumsan vim ex, meliore repudiare consetetur et has.</p><p><br></p><p>Eu nostrum volutpat maluisset has, per ea homero utamur, ius ut wisi nominati. Sumo denique appareat.</p><p><br></p><p>Inermis vituperatoribus et ius. Aeque tritani eu qui, ne pri euripidis, mandamus reprimique te vix. Ei case atqui sonet vim.</p>"
+      },
+      "id": "widget_43",
+      "label": "Text 4"
+    },
+    "widget_45": {
+      "uri": "widgets/common/select/",
+      "version": "1.19.0",
+      "label": "Select",
+      "config": {
+        "useMap": false,
+        "dataAttributeInfo": {
+          "allowGenerated": false,
+          "dataSourceItems": [
+            {
+              "uid": "19632790-cb31-11f0-a1ad-4bf98c794709",
+              "sqlHint": "",
+              "useDataSource": {
+                "dataSourceId": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c770552-layer-44-19ac2eadbcb-layer-324",
+                "mainDataSourceId": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c770552-layer-44-19ac2eadbcb-layer-324",
+                "rootDataSourceId": "7718ba0918fc4eca9e5df728dd4f67b5"
+              }
+            }
+          ]
+        },
+        "mapInfo": {},
+        "interactiveTools": {
+          "tools": [
+            "point"
+          ],
+          "partiallyWithin": true
+        },
+        "spatialSelection": {
+          "enable": true,
+          "useDataSources": [
+            {
+              "dataSourceId": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c770552-layer-44-19a5c722ed6-layer-37-selection",
+              "mainDataSourceId": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c770552-layer-44-19a5c722ed6-layer-37",
+              "rootDataSourceId": "7718ba0918fc4eca9e5df728dd4f67b5",
+              "dataViewId": "selection"
+            }
+          ],
+          "relationships": [
+            "Intersects"
+          ],
+          "buffer": {
+            "enable": true,
+            "distance": 1,
+            "unit": "Meters"
+          }
+        }
+      },
+      "id": "widget_45",
+      "dataActions": {
+        "relatedData": {
+          "enabled": false
+        },
+        "dataStatistics": {
+          "enabled": false
+        },
+        "showOnMap": {
+          "config": {
+            "isUseCustomSymbol": true,
+            "isOperationalLayer": true,
+            "symbolOption": {
+              "pointSymbol": {
+                "type": "esriSMS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "angle": 0,
+                "xoffset": 0,
+                "yoffset": 0,
+                "size": 12,
+                "style": "esriSMSCircle",
+                "outline": {
+                  "type": "esriSLS",
+                  "color": [
+                    255,
+                    255,
+                    0,
+                    150
+                  ],
+                  "width": 1,
+                  "style": "esriSLSSolid"
+                }
+              },
+              "polylineSymbol": {
+                "type": "esriSLS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "width": 0.75,
+                "style": "esriSLSSolid"
+              },
+              "polygonSymbol": {
+                "type": "esriSFS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "outline": {
+                  "type": "esriSLS",
+                  "color": [
+                    255,
+                    255,
+                    0,
+                    150
+                  ],
+                  "width": 1,
+                  "style": "esriSLSSolid"
+                },
+                "style": "esriSFSSolid"
+              }
+            }
+          }
+        }
+      },
+      "useDataSources": [
+        {
+          "dataSourceId": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c770552-layer-44-19ac2eadbcb-layer-324",
+          "mainDataSourceId": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c770552-layer-44-19ac2eadbcb-layer-324",
+          "rootDataSourceId": "7718ba0918fc4eca9e5df728dd4f67b5"
+        },
+        {
+          "dataSourceId": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c770552-layer-44-19a5c722ed6-layer-37-selection",
+          "mainDataSourceId": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c770552-layer-44-19a5c722ed6-layer-37",
+          "rootDataSourceId": "7718ba0918fc4eca9e5df728dd4f67b5",
+          "dataViewId": "selection"
+        }
+      ],
+      "icon": {
+        "svg": "<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\r\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M19.5001 0H6V4.49986H7V1H12V6.13278L15.6383 12.4999H11.3004V13.4999H19.5001V0ZM16.7901 12.4999H18.5001V7.02223L15.1493 9.62846L16.7901 12.4999ZM14.6481 8.7514L18.5001 5.75536V1H13V5.86722L14.6481 8.7514Z\" fill=\"black\"/>\r\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M11.8908 10.0064L1 4.16455V16.4826L3.89739 13.1256L7.29848 19.643L10.6646 17.693L7.23928 11.1292L11.8908 10.0064ZM2 13.7935V5.83573L9.10918 9.64908L5.76072 10.4573L9.33539 17.3073L7.70152 18.2538L4.10261 11.3574L2 13.7935Z\" fill=\"black\"/>\r\n</svg>\r\n",
+        "properties": {
+          "filename": "Select",
+          "originalName": "default/select.svg",
+          "color": ""
+        }
+      }
+    },
+    "widget_93": {
+      "uri": "widgets/arcgis/bookmark/",
+      "version": "1.19.0",
+      "label": "Bookmark",
+      "config": {
+        "displayFromWeb": true,
+        "galleryItemWidth": 200,
+        "galleryItemHeight": 237.5,
+        "galleryItemSpace": 24,
+        "cardItemWidth": "50%",
+        "isTemplateConfirm": true,
+        "bookmarks": [],
+        "runtimeAddAllow": false,
+        "ignoreLayerVisibility": false,
+        "displayName": true,
+        "itemSizeType": "CUSTOM"
+      },
+      "id": "widget_93",
+      "useMapWidgetIds": [
+        "widget_11"
+      ]
+    },
+    "widget_94": {
+      "uri": "widgets/arcgis/coordinates/",
+      "version": "1.19.0",
+      "offPanel": true,
+      "label": "Coordinates",
+      "config": {
+        "coordinateSystem": [
+          {
+            "id": "system-1",
+            "name": "WGS_1984_Web_Mercator_Auxiliary_Sphere",
+            "wkid": "3857",
+            "displayUnit": "",
+            "elevationUnit": "METRIC",
+            "crs": {
+              "name": "WGS_1984_Web_Mercator_Auxiliary_Sphere",
+              "wkid": 3857,
+              "wkt": "PROJCS['WGS_1984_Web_Mercator_Auxiliary_Sphere',GEOGCS['GCS_WGS_1984',DATUM['D_WGS_1984',SPHEROID['WGS_1984',6378137.0,298.257223563]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]],PROJECTION['Mercator_Auxiliary_Sphere'],PARAMETER['False_Easting',0.0],PARAMETER['False_Northing',0.0],PARAMETER['Central_Meridian',0.0],PARAMETER['Standard_Parallel_1',0.0],PARAMETER['Auxiliary_Sphere_Type',0.0],UNIT['Meter',1.0]]"
+            }
+          }
+        ],
+        "coordinateDecimal": 5,
+        "altitudeDecimal": 2,
+        "showSeparators": true,
+        "displayOrder": "XY",
+        "widgetStyle": "CLASSIC",
+        "mapInfo": {
+          "id": "7718ba0918fc4eca9e5df728dd4f67b5",
+          "title": "Customer Service",
+          "wkid": 102100,
+          "label": "WGS_1984_Web_Mercator_Auxiliary_Sphere",
+          "csUnit": "Meter"
+        },
+        "mapInfo2": {
+          "csUnit": ""
+        }
+      },
+      "id": "widget_94",
+      "useMapWidgetIds": [
+        "widget_11"
+      ],
+      "style": {
+        "borderRadius": {
+          "number": [
+            null,
+            null,
+            null,
+            null
+          ],
+          "unit": "px"
+        },
+        "border": {
+          "type": "solid",
+          "color": "#595555",
+          "width": "1px"
+        }
+      }
+    },
+    "widget_100": {
+      "uri": "widgets/common/print/",
+      "version": "1.19.0",
+      "label": "Print",
+      "config": {
+        "printServiceType": "CUSTOMIZE",
+        "printTemplateType": "CUSTOMIZE",
+        "modeType": "CLASSIC",
+        "commonSetting": {
+          "scalePreserved": false,
+          "layoutOptions": {
+            "titleText": "ArcGIS Web Map"
+          },
+          "outScale": 36978595.474472,
+          "exportOptions": {
+            "dpi": 96
+          },
+          "printExtentType": "CURRENT MAP EXTENT",
+          "forceFeatureAttributes": false,
+          "enableTitle": true,
+          "enableMapPrintExtents": true,
+          "enableOutputSpatialReference": false,
+          "enableQuality": true,
+          "enableFeatureAttribution": true
+        },
+        "previewBackgroundColor": "rgba(0,216,237,1)",
+        "enablePreview": true,
+        "previewOutLine": {
+          "color": "#000",
+          "size": "4px"
+        },
+        "hasInitBorder": true,
+        "printCustomTemplate": [
+          {
+            "scalePreserved": false,
+            "outScale": 36978595.474472,
+            "layoutOptions": {
+              "titleText": "ArcGIS Web Map",
+              "legend": false,
+              "scalebarUnit": "Meters",
+              "legendLayers": [],
+              "customTextElements": [],
+              "elementOverrides": {
+                "Legend": {
+                  "name": "Legend",
+                  "type": "CIMLegend",
+                  "visible": true,
+                  "defaultLegendItem": {
+                    "dynamicLegends": true
+                  }
+                },
+                "North Arrow": {
+                  "name": "North Arrow",
+                  "type": "CIMMarkerNorthArrow",
+                  "visible": true
+                },
+                "Scale bar": {
+                  "name": "Scale bar",
+                  "type": "CIMGroupElement",
+                  "visible": true,
+                  "elements": [
+                    {
+                      "name": "Scale Line",
+                      "type": "CIMScaleLine",
+                      "visible": true
+                    },
+                    {
+                      "name": "Scale Line 1",
+                      "type": "CIMScaleLine",
+                      "visible": true
+                    }
+                  ]
+                }
+              },
+              "copyrightText": "Disclaimer: Any information extracted from this document (from the face of the document or by scale) should be verified on site. Council takes no responsibility for the accuracy of any information contained or presented in the document. While every care has been taken to ensure the accuracy of this information, Council makes no representations or warranties about the accuracy, reliability, completeness or suitability for any particular purpose and disclaims all responsibility and liability.",
+              "authorText": "Huon Valley Council"
+            },
+            "exportOptions": {
+              "dpi": 96
+            },
+            "printExtentType": "CURRENT MAP EXTENT",
+            "attributionVisible": false,
+            "forceFeatureAttributes": false,
+            "wkid": null,
+            "wkidLabel": null,
+            "enableTitle": true,
+            "legendEnabled": true,
+            "enableMapPrintExtents": true,
+            "enableOutputSpatialReference": false,
+            "enableQuality": true,
+            "enableFeatureAttribution": true,
+            "enableMapSize": true,
+            "overrideCommonSetting": false,
+            "enableAuthor": true,
+            "enableCopyright": true,
+            "enableLegend": true,
+            "enableScalebarUnit": true,
+            "enableCustomTextElements": true,
+            "label": "A3 Landscape",
+            "layout": "A3 Landscape",
+            "format": "pdf",
+            "reportTypes": "Service Report",
+            "layoutTypes": "Service Layout",
+            "templateId": "config_custom_0",
+            "mapFrameSize": [
+              40,
+              21.17
+            ],
+            "mapFrameUnit": "CENTIMETER",
+            "hasAuthorText": true,
+            "hasCopyrightText": true,
+            "hasLegend": true,
+            "hasTitleText": true,
+            "customTextElementEnableList": [],
+            "enableNorthArrow": true,
+            "selectedFormatList": [
+              "pdf"
+            ],
+            "showLabels": true
+          },
+          {
+            "scalePreserved": false,
+            "outScale": 36978595.474472,
+            "layoutOptions": {
+              "titleText": "ArcGIS Web Map",
+              "legend": false,
+              "scalebarUnit": "Meters",
+              "legendLayers": [],
+              "customTextElements": [],
+              "elementOverrides": {
+                "Legend": {
+                  "name": "Legend",
+                  "type": "CIMLegend",
+                  "visible": true,
+                  "defaultLegendItem": {
+                    "dynamicLegends": true
+                  }
+                },
+                "North Arrow": {
+                  "name": "North Arrow",
+                  "type": "CIMMarkerNorthArrow",
+                  "visible": true
+                },
+                "Scale bar": {
+                  "name": "Scale bar",
+                  "type": "CIMGroupElement",
+                  "visible": true,
+                  "elements": [
+                    {
+                      "name": "Scale Line",
+                      "type": "CIMScaleLine",
+                      "visible": true
+                    },
+                    {
+                      "name": "Scale Line 1",
+                      "type": "CIMScaleLine",
+                      "visible": true
+                    }
+                  ]
+                }
+              }
+            },
+            "exportOptions": {
+              "dpi": 96
+            },
+            "printExtentType": "CURRENT MAP EXTENT",
+            "attributionVisible": false,
+            "forceFeatureAttributes": true,
+            "wkid": null,
+            "wkidLabel": null,
+            "enableTitle": true,
+            "legendEnabled": true,
+            "enableMapPrintExtents": true,
+            "enableOutputSpatialReference": true,
+            "enableQuality": true,
+            "enableFeatureAttribution": true,
+            "enableMapSize": true,
+            "overrideCommonSetting": false,
+            "enableAuthor": true,
+            "enableCopyright": true,
+            "enableLegend": true,
+            "enableScalebarUnit": true,
+            "enableCustomTextElements": true,
+            "label": "A3 Portrait",
+            "layout": "A3 Portrait",
+            "format": "pdf",
+            "reportTypes": "Service Report",
+            "layoutTypes": "Service Layout",
+            "templateId": "config_custom_1",
+            "mapFrameSize": [
+              27.68,
+              33.45
+            ],
+            "mapFrameUnit": "CENTIMETER",
+            "hasAuthorText": true,
+            "hasCopyrightText": true,
+            "hasLegend": true,
+            "hasTitleText": true,
+            "customTextElementEnableList": [],
+            "enableNorthArrow": true,
+            "selectedFormatList": [
+              "pdf"
+            ],
+            "showLabels": true
+          },
+          {
+            "scalePreserved": false,
+            "outScale": 36978595.474472,
+            "layoutOptions": {
+              "titleText": "ArcGIS Web Map",
+              "legend": false,
+              "scalebarUnit": "Miles",
+              "legendLayers": [],
+              "customTextElements": [],
+              "elementOverrides": {
+                "Legend": {
+                  "name": "Legend",
+                  "type": "CIMLegend",
+                  "visible": true,
+                  "defaultLegendItem": {
+                    "dynamicLegends": true
+                  }
+                },
+                "North Arrow": {
+                  "name": "North Arrow",
+                  "type": "CIMMarkerNorthArrow",
+                  "visible": true
+                },
+                "Scale bar": {
+                  "name": "Scale bar",
+                  "type": "CIMGroupElement",
+                  "visible": true,
+                  "elements": [
+                    {
+                      "name": "Scale Line",
+                      "type": "CIMScaleLine",
+                      "visible": true
+                    },
+                    {
+                      "name": "Scale Line 1",
+                      "type": "CIMScaleLine",
+                      "visible": true
+                    }
+                  ]
+                }
+              }
+            },
+            "exportOptions": {
+              "dpi": 96
+            },
+            "printExtentType": "CURRENT MAP EXTENT",
+            "attributionVisible": false,
+            "forceFeatureAttributes": true,
+            "wkid": null,
+            "wkidLabel": null,
+            "enableTitle": true,
+            "legendEnabled": true,
+            "enableMapPrintExtents": true,
+            "enableOutputSpatialReference": true,
+            "enableQuality": true,
+            "enableFeatureAttribution": true,
+            "enableMapSize": true,
+            "overrideCommonSetting": false,
+            "enableAuthor": true,
+            "enableCopyright": true,
+            "enableLegend": true,
+            "enableScalebarUnit": true,
+            "enableCustomTextElements": true,
+            "label": "A4 Landscape",
+            "layout": "A4 Landscape",
+            "format": "pdf",
+            "reportTypes": "Service Report",
+            "layoutTypes": "Service Layout",
+            "templateId": "config_custom_2",
+            "mapFrameSize": [
+              27.76,
+              15.92
+            ],
+            "mapFrameUnit": "CENTIMETER",
+            "hasAuthorText": true,
+            "hasCopyrightText": true,
+            "hasLegend": true,
+            "hasTitleText": true,
+            "customTextElementEnableList": [],
+            "enableNorthArrow": true,
+            "selectedFormatList": [
+              "pdf"
+            ],
+            "showLabels": true
+          },
+          {
+            "scalePreserved": false,
+            "outScale": 36978595.474472,
+            "layoutOptions": {
+              "titleText": "ArcGIS Web Map",
+              "legend": false,
+              "scalebarUnit": "Miles",
+              "legendLayers": [],
+              "customTextElements": [],
+              "elementOverrides": {
+                "Legend": {
+                  "name": "Legend",
+                  "type": "CIMLegend",
+                  "visible": true,
+                  "defaultLegendItem": {
+                    "dynamicLegends": true
+                  }
+                },
+                "North Arrow": {
+                  "name": "North Arrow",
+                  "type": "CIMMarkerNorthArrow",
+                  "visible": true
+                },
+                "Scale bar": {
+                  "name": "Scale bar",
+                  "type": "CIMGroupElement",
+                  "visible": true,
+                  "elements": [
+                    {
+                      "name": "Scale Line",
+                      "type": "CIMScaleLine",
+                      "visible": true
+                    },
+                    {
+                      "name": "Scale Line 1",
+                      "type": "CIMScaleLine",
+                      "visible": true
+                    }
+                  ]
+                }
+              }
+            },
+            "exportOptions": {
+              "dpi": 96
+            },
+            "printExtentType": "CURRENT MAP EXTENT",
+            "attributionVisible": false,
+            "forceFeatureAttributes": true,
+            "wkid": null,
+            "wkidLabel": null,
+            "enableTitle": true,
+            "legendEnabled": true,
+            "enableMapPrintExtents": true,
+            "enableOutputSpatialReference": true,
+            "enableQuality": true,
+            "enableFeatureAttribution": true,
+            "enableMapSize": true,
+            "overrideCommonSetting": false,
+            "enableAuthor": true,
+            "enableCopyright": true,
+            "enableLegend": true,
+            "enableScalebarUnit": true,
+            "enableCustomTextElements": true,
+            "label": "A4 Portrait",
+            "layout": "A4 Portrait",
+            "format": "pdf",
+            "reportTypes": "Service Report",
+            "layoutTypes": "Service Layout",
+            "templateId": "config_custom_3",
+            "mapFrameSize": [
+              19.02,
+              22.29
+            ],
+            "mapFrameUnit": "CENTIMETER",
+            "hasAuthorText": true,
+            "hasCopyrightText": true,
+            "hasLegend": true,
+            "hasTitleText": true,
+            "customTextElementEnableList": [],
+            "enableNorthArrow": true,
+            "selectedFormatList": [
+              "pdf"
+            ],
+            "showLabels": true
+          },
+          {
+            "scalePreserved": false,
+            "outScale": 36978595.474472,
+            "layoutOptions": {
+              "titleText": "ArcGIS Web Map",
+              "scalebarUnit": "Miles",
+              "legendLayers": null
+            },
+            "exportOptions": {
+              "dpi": 96,
+              "width": 800,
+              "height": 1100
+            },
+            "printExtentType": "CURRENT MAP EXTENT",
+            "attributionVisible": false,
+            "forceFeatureAttributes": true,
+            "wkid": null,
+            "wkidLabel": null,
+            "enableTitle": true,
+            "legendEnabled": true,
+            "enableMapPrintExtents": true,
+            "enableOutputSpatialReference": true,
+            "enableQuality": true,
+            "enableFeatureAttribution": true,
+            "enableMapSize": true,
+            "overrideCommonSetting": false,
+            "enableAuthor": true,
+            "enableCopyright": true,
+            "enableLegend": true,
+            "enableScalebarUnit": true,
+            "enableCustomTextElements": true,
+            "label": "MAP_ONLY",
+            "layout": "MAP_ONLY",
+            "format": "pdf",
+            "reportTypes": "Service Report",
+            "layoutTypes": "Service Layout",
+            "templateId": "config_custom_8",
+            "selectedFormatList": [
+              "pdf"
+            ],
+            "showLabels": true
+          }
+        ],
+        "useUtility": {
+          "utilityId": "utility_2"
+        },
+        "formatList": [
+          "pdf",
+          "png32",
+          "png8",
+          "jpg",
+          "gif",
+          "eps",
+          "svg",
+          "svgz",
+          "aix",
+          "tiff"
+        ],
+        "defaultFormat": "pdf",
+        "layoutChoiceList": [
+          {
+            "label": "A3 Landscape",
+            "layout": "A3 Landscape",
+            "format": "pdf",
+            "layoutOptions": {
+              "titleText": "ArcGIS Web Map",
+              "legend": false,
+              "scalebarUnit": "Miles",
+              "legendLayers": [],
+              "customTextElements": [],
+              "elementOverrides": {
+                "Legend": {
+                  "name": "Legend",
+                  "type": "CIMLegend",
+                  "visible": true,
+                  "defaultLegendItem": {
+                    "dynamicLegends": true
+                  }
+                },
+                "North Arrow": {
+                  "name": "North Arrow",
+                  "type": "CIMMarkerNorthArrow",
+                  "visible": true
+                },
+                "Scale bar": {
+                  "name": "Scale bar",
+                  "type": "CIMGroupElement",
+                  "visible": true,
+                  "elements": [
+                    {
+                      "name": "Scale Line",
+                      "type": "CIMScaleLine",
+                      "visible": true
+                    },
+                    {
+                      "name": "Scale Line 1",
+                      "type": "CIMScaleLine",
+                      "visible": true
+                    }
+                  ]
+                }
+              }
+            },
+            "layoutTemplate": "A3 Landscape",
+            "mapFrameSize": [
+              40,
+              21.17
+            ],
+            "mapFrameUnit": "CENTIMETER",
+            "hasAuthorText": true,
+            "hasCopyrightText": true,
+            "hasLegend": true,
+            "hasTitleText": true,
+            "customTextElementEnableList": [],
+            "enableNorthArrow": true,
+            "enableLegend": true,
+            "enableAuthor": true,
+            "enableCopyright": true,
+            "enableScalebarUnit": true
+          },
+          {
+            "label": "A3 Portrait",
+            "layout": "A3 Portrait",
+            "format": "pdf",
+            "layoutOptions": {
+              "titleText": "ArcGIS Web Map",
+              "legend": false,
+              "scalebarUnit": "Miles",
+              "legendLayers": [],
+              "customTextElements": [],
+              "elementOverrides": {
+                "Legend": {
+                  "name": "Legend",
+                  "type": "CIMLegend",
+                  "visible": true,
+                  "defaultLegendItem": {
+                    "dynamicLegends": true
+                  }
+                },
+                "North Arrow": {
+                  "name": "North Arrow",
+                  "type": "CIMMarkerNorthArrow",
+                  "visible": true
+                },
+                "Scale bar": {
+                  "name": "Scale bar",
+                  "type": "CIMGroupElement",
+                  "visible": true,
+                  "elements": [
+                    {
+                      "name": "Scale Line",
+                      "type": "CIMScaleLine",
+                      "visible": true
+                    },
+                    {
+                      "name": "Scale Line 1",
+                      "type": "CIMScaleLine",
+                      "visible": true
+                    }
+                  ]
+                }
+              }
+            },
+            "layoutTemplate": "A3 Portrait",
+            "mapFrameSize": [
+              27.68,
+              33.45
+            ],
+            "mapFrameUnit": "CENTIMETER",
+            "hasAuthorText": true,
+            "hasCopyrightText": true,
+            "hasLegend": true,
+            "hasTitleText": true,
+            "customTextElementEnableList": [],
+            "enableNorthArrow": true,
+            "enableLegend": true,
+            "enableAuthor": true,
+            "enableCopyright": true,
+            "enableScalebarUnit": true
+          },
+          {
+            "label": "A4 Landscape",
+            "layout": "A4 Landscape",
+            "format": "pdf",
+            "layoutOptions": {
+              "titleText": "ArcGIS Web Map",
+              "legend": false,
+              "scalebarUnit": "Miles",
+              "legendLayers": [],
+              "customTextElements": [],
+              "elementOverrides": {
+                "Legend": {
+                  "name": "Legend",
+                  "type": "CIMLegend",
+                  "visible": true,
+                  "defaultLegendItem": {
+                    "dynamicLegends": true
+                  }
+                },
+                "North Arrow": {
+                  "name": "North Arrow",
+                  "type": "CIMMarkerNorthArrow",
+                  "visible": true
+                },
+                "Scale bar": {
+                  "name": "Scale bar",
+                  "type": "CIMGroupElement",
+                  "visible": true,
+                  "elements": [
+                    {
+                      "name": "Scale Line",
+                      "type": "CIMScaleLine",
+                      "visible": true
+                    },
+                    {
+                      "name": "Scale Line 1",
+                      "type": "CIMScaleLine",
+                      "visible": true
+                    }
+                  ]
+                }
+              }
+            },
+            "layoutTemplate": "A4 Landscape",
+            "mapFrameSize": [
+              27.76,
+              15.92
+            ],
+            "mapFrameUnit": "CENTIMETER",
+            "hasAuthorText": true,
+            "hasCopyrightText": true,
+            "hasLegend": true,
+            "hasTitleText": true,
+            "customTextElementEnableList": [],
+            "enableNorthArrow": true,
+            "enableLegend": true,
+            "enableAuthor": true,
+            "enableCopyright": true,
+            "enableScalebarUnit": true
+          },
+          {
+            "label": "A4 Portrait",
+            "layout": "A4 Portrait",
+            "format": "pdf",
+            "layoutOptions": {
+              "titleText": "ArcGIS Web Map",
+              "legend": false,
+              "scalebarUnit": "Miles",
+              "legendLayers": [],
+              "customTextElements": [],
+              "elementOverrides": {
+                "Legend": {
+                  "name": "Legend",
+                  "type": "CIMLegend",
+                  "visible": true,
+                  "defaultLegendItem": {
+                    "dynamicLegends": true
+                  }
+                },
+                "North Arrow": {
+                  "name": "North Arrow",
+                  "type": "CIMMarkerNorthArrow",
+                  "visible": true
+                },
+                "Scale bar": {
+                  "name": "Scale bar",
+                  "type": "CIMGroupElement",
+                  "visible": true,
+                  "elements": [
+                    {
+                      "name": "Scale Line",
+                      "type": "CIMScaleLine",
+                      "visible": true
+                    },
+                    {
+                      "name": "Scale Line 1",
+                      "type": "CIMScaleLine",
+                      "visible": true
+                    }
+                  ]
+                }
+              }
+            },
+            "layoutTemplate": "A4 Portrait",
+            "mapFrameSize": [
+              19.02,
+              22.29
+            ],
+            "mapFrameUnit": "CENTIMETER",
+            "hasAuthorText": true,
+            "hasCopyrightText": true,
+            "hasLegend": true,
+            "hasTitleText": true,
+            "customTextElementEnableList": [],
+            "enableNorthArrow": true,
+            "enableLegend": true,
+            "enableAuthor": true,
+            "enableCopyright": true,
+            "enableScalebarUnit": true
+          },
+          {
+            "label": "Letter ANSI A Landscape",
+            "layout": "Letter ANSI A Landscape",
+            "format": "pdf",
+            "layoutOptions": {
+              "titleText": "ArcGIS Web Map",
+              "legend": false,
+              "scalebarUnit": "Miles",
+              "legendLayers": [],
+              "customTextElements": [],
+              "elementOverrides": {
+                "Legend": {
+                  "name": "Legend",
+                  "type": "CIMLegend",
+                  "visible": true,
+                  "defaultLegendItem": {
+                    "dynamicLegends": true
+                  }
+                },
+                "North Arrow": {
+                  "name": "North Arrow",
+                  "type": "CIMMarkerNorthArrow",
+                  "visible": true
+                },
+                "Scale bar": {
+                  "name": "Scale bar",
+                  "type": "CIMGroupElement",
+                  "visible": true,
+                  "elements": [
+                    {
+                      "name": "Scale Line",
+                      "type": "CIMScaleLine",
+                      "visible": true
+                    },
+                    {
+                      "name": "Scale Line 1",
+                      "type": "CIMScaleLine",
+                      "visible": true
+                    }
+                  ]
+                }
+              }
+            },
+            "layoutTemplate": "Letter ANSI A Landscape",
+            "mapFrameSize": [
+              10,
+              6.25
+            ],
+            "mapFrameUnit": "INCH",
+            "hasAuthorText": true,
+            "hasCopyrightText": true,
+            "hasLegend": true,
+            "hasTitleText": true,
+            "customTextElementEnableList": [],
+            "enableNorthArrow": true,
+            "enableLegend": true,
+            "enableAuthor": true,
+            "enableCopyright": true,
+            "enableScalebarUnit": true
+          },
+          {
+            "label": "Letter ANSI A Portrait",
+            "layout": "Letter ANSI A Portrait",
+            "format": "pdf",
+            "layoutOptions": {
+              "titleText": "ArcGIS Web Map",
+              "legend": false,
+              "scalebarUnit": "Miles",
+              "legendLayers": [],
+              "customTextElements": [],
+              "elementOverrides": {
+                "Legend": {
+                  "name": "Legend",
+                  "type": "CIMLegend",
+                  "visible": true,
+                  "defaultLegendItem": {
+                    "dynamicLegends": true
+                  }
+                },
+                "North Arrow": {
+                  "name": "North Arrow",
+                  "type": "CIMMarkerNorthArrow",
+                  "visible": true
+                },
+                "Scale bar": {
+                  "name": "Scale bar",
+                  "type": "CIMGroupElement",
+                  "visible": true,
+                  "elements": [
+                    {
+                      "name": "Scale Line",
+                      "type": "CIMScaleLine",
+                      "visible": true
+                    },
+                    {
+                      "name": "Scale Line 1",
+                      "type": "CIMScaleLine",
+                      "visible": true
+                    }
+                  ]
+                }
+              }
+            },
+            "layoutTemplate": "Letter ANSI A Portrait",
+            "mapFrameSize": [
+              7.5,
+              8
+            ],
+            "mapFrameUnit": "INCH",
+            "hasAuthorText": true,
+            "hasCopyrightText": true,
+            "hasLegend": true,
+            "hasTitleText": true,
+            "customTextElementEnableList": [],
+            "enableNorthArrow": true,
+            "enableLegend": true,
+            "enableAuthor": true,
+            "enableCopyright": true,
+            "enableScalebarUnit": true
+          },
+          {
+            "label": "Tabloid ANSI B Landscape",
+            "layout": "Tabloid ANSI B Landscape",
+            "format": "pdf",
+            "layoutOptions": {
+              "titleText": "ArcGIS Web Map",
+              "legend": false,
+              "scalebarUnit": "Miles",
+              "legendLayers": [],
+              "customTextElements": [],
+              "elementOverrides": {
+                "Legend": {
+                  "name": "Legend",
+                  "type": "CIMLegend",
+                  "visible": true,
+                  "defaultLegendItem": {
+                    "dynamicLegends": true
+                  }
+                },
+                "North Arrow": {
+                  "name": "North Arrow",
+                  "type": "CIMMarkerNorthArrow",
+                  "visible": true
+                },
+                "Scale bar": {
+                  "name": "Scale bar",
+                  "type": "CIMGroupElement",
+                  "visible": true,
+                  "elements": [
+                    {
+                      "name": "Scale Line",
+                      "type": "CIMScaleLine",
+                      "visible": true
+                    },
+                    {
+                      "name": "Scale Line 1",
+                      "type": "CIMScaleLine",
+                      "visible": true
+                    }
+                  ]
+                }
+              }
+            },
+            "layoutTemplate": "Tabloid ANSI B Landscape",
+            "mapFrameSize": [
+              16,
+              7.76
+            ],
+            "mapFrameUnit": "INCH",
+            "hasAuthorText": true,
+            "hasCopyrightText": true,
+            "hasLegend": true,
+            "hasTitleText": true,
+            "customTextElementEnableList": [],
+            "enableNorthArrow": true,
+            "enableLegend": true,
+            "enableAuthor": true,
+            "enableCopyright": true,
+            "enableScalebarUnit": true
+          },
+          {
+            "label": "Tabloid ANSI B Portrait",
+            "layout": "Tabloid ANSI B Portrait",
+            "format": "pdf",
+            "layoutOptions": {
+              "titleText": "ArcGIS Web Map",
+              "legend": false,
+              "scalebarUnit": "Miles",
+              "legendLayers": [],
+              "customTextElements": [],
+              "elementOverrides": {
+                "Legend": {
+                  "name": "Legend",
+                  "type": "CIMLegend",
+                  "visible": true,
+                  "defaultLegendItem": {
+                    "dynamicLegends": true
+                  }
+                },
+                "North Arrow": {
+                  "name": "North Arrow",
+                  "type": "CIMMarkerNorthArrow",
+                  "visible": true
+                },
+                "Scale bar": {
+                  "name": "Scale bar",
+                  "type": "CIMGroupElement",
+                  "visible": true,
+                  "elements": [
+                    {
+                      "name": "Scale Line",
+                      "type": "CIMScaleLine",
+                      "visible": true
+                    },
+                    {
+                      "name": "Scale Line 1",
+                      "type": "CIMScaleLine",
+                      "visible": true
+                    }
+                  ]
+                }
+              }
+            },
+            "layoutTemplate": "Tabloid ANSI B Portrait",
+            "mapFrameSize": [
+              10,
+              13.61
+            ],
+            "mapFrameUnit": "INCH",
+            "hasAuthorText": true,
+            "hasCopyrightText": false,
+            "hasLegend": true,
+            "hasTitleText": true,
+            "customTextElementEnableList": [],
+            "enableNorthArrow": true,
+            "enableLegend": true,
+            "enableAuthor": true,
+            "enableCopyright": false,
+            "enableScalebarUnit": true
+          },
+          {
+            "label": "MAP_ONLY",
+            "layout": "MAP_ONLY",
+            "format": "pdf",
+            "layoutTemplate": "MAP_ONLY",
+            "enableScalebarUnit": true
+          }
+        ],
+        "supportCustomLayout": true,
+        "supportReport": false,
+        "supportCustomReport": false
+      },
+      "id": "widget_100",
+      "useMapWidgetIds": [
+        "widget_11"
+      ],
+      "style": {
+        "border": {
+          "color": "var(--ref-palette-neutral-700)",
+          "type": "solid",
+          "width": "1px"
+        }
+      },
+      "offPanel": false,
+      "useUtilities": [
+        {
+          "utilityId": "utility_2"
+        }
+      ]
+    },
+    "widget_114": {
+      "uri": "widgets/common/image/",
+      "version": "1.19.0",
+      "label": "Image",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": {
+            "url": "${appResourceUrl}/images/widget_2/1763947242043.png",
+            "originalUrl": "${appResourceUrl}/images/widget_2/1763947242043.png",
+            "fileName": "1763947242043.png",
+            "originalName": "logo.png",
+            "imgSourceType": "BY_UPLOAD",
+            "fileFormat": "image/png",
+            "originalId": "1763947242043",
+            "originalWidth": 165,
+            "originalHeight": 36,
+            "cropParam": {
+              "svgViewBox": "0 0 16 16",
+              "svgPath": "M0 0h16v16H0z",
+              "cropShape": "square"
+            }
+          },
+          "imageDisplayQualityMode": "ORIGINAL",
+          "imgSourceType": "",
+          "srcExpression": null,
+          "imageViewer": false
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_114",
+      "useDataSourcesEnabled": false,
+      "style": {
+        "borderRadius": {
+          "number": [
+            null,
+            null,
+            null,
+            null
+          ],
+          "unit": "px"
+        }
+      }
+    },
+    "widget_115": {
+      "uri": "widgets/common/add-data/",
+      "version": "1.19.0",
+      "label": "Add Data",
+      "config": {},
+      "id": "widget_115"
+    },
+    "widget_116": {
+      "uri": "widgets/arcgis/draw/",
+      "version": "1.19.0",
+      "label": "Draw",
+      "config": {
+        "arrangement": "Panel",
+        "drawMode": "continuous",
+        "drawingTools": [
+          "point",
+          "polyline",
+          "polygon",
+          "rectangle",
+          "circle",
+          "text"
+        ],
+        "layerListMode": "show",
+        "measurementsInfo": {
+          "enableMeasurements": true,
+          "fontsColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "fontsSize": 12,
+          "haloColor": [
+            255,
+            255,
+            255,
+            1
+          ],
+          "haloSize": 2,
+          "decimalPlaces": {
+            "point": 5,
+            "line": 3,
+            "area": 3
+          }
+        },
+        "measurementsUnitsInfos": [],
+        "drawingElevationMode3D": "on-the-ground",
+        "drawOptions": {
+          "snappingMode": "Flexible",
+          "tooltipEnabled": true,
+          "defaultTooltipEnabled": false,
+          "segmentLabelEnabled": false,
+          "defaultSegmentLabelEnabled": false,
+          "geometryGuidesEnabled": true,
+          "defaultGeometryGuidesEnabled": false,
+          "featureToFeatureEnabled": true,
+          "defaultFeatureToFeatureEnabled": false,
+          "gridEnabled": true,
+          "defaultGridEnabled": false,
+          "defaultSnappingLayers": []
+        }
+      },
+      "id": "widget_116",
+      "useMapWidgetIds": [
+        "widget_11"
+      ]
+    },
+    "widget_117": {
+      "uri": "widgets/arcgis/measurement/",
+      "version": "1.19.0",
+      "label": "Measurement",
+      "config": {
+        "enableDistance": true,
+        "defaultDistanceUnit": "metric",
+        "enableArea": true,
+        "defaultAreaUnit": "metric",
+        "arrangement": "TOOLBAR"
+      },
+      "id": "widget_117",
+      "useMapWidgetIds": [
+        "widget_11"
+      ],
+      "offPanel": true
+    },
+    "widget_119": {
+      "uri": "widgets/common/select/",
+      "version": "1.19.0",
+      "label": "Select 2",
+      "config": {
+        "useMap": true,
+        "dataAttributeInfo": {
+          "allowGenerated": false,
+          "dataSourceItems": []
+        },
+        "mapInfo": {},
+        "interactiveTools": {
+          "tools": [
+            "rectangle",
+            "polygon",
+            "circle",
+            "polyline",
+            "point"
+          ],
+          "partiallyWithin": true
+        },
+        "spatialSelection": {
+          "enable": false,
+          "useDataSources": [],
+          "relationships": [
+            "Intersects"
+          ],
+          "buffer": {
+            "enable": false,
+            "distance": 0,
+            "unit": "Meters"
+          }
+        }
+      },
+      "id": "widget_119",
+      "useMapWidgetIds": [
+        "widget_11"
+      ],
+      "dataActions": {
+        "addMarker": {
+          "enabled": false
+        },
+        "dataStatistics": {
+          "enabled": false
+        },
+        "relatedData": {
+          "enabled": false
+        },
+        "showOnMap": {
+          "config": {
+            "isUseCustomSymbol": true,
+            "isOperationalLayer": true,
+            "symbolOption": {
+              "pointSymbol": {
+                "type": "esriSMS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "angle": 0,
+                "xoffset": 0,
+                "yoffset": 0,
+                "size": 12,
+                "style": "esriSMSCircle",
+                "outline": {
+                  "type": "esriSLS",
+                  "color": [
+                    255,
+                    255,
+                    0,
+                    150
+                  ],
+                  "width": 1,
+                  "style": "esriSLSSolid"
+                }
+              },
+              "polylineSymbol": {
+                "type": "esriSLS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "width": 0.75,
+                "style": "esriSLSSolid"
+              },
+              "polygonSymbol": {
+                "type": "esriSFS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "outline": {
+                  "type": "esriSLS",
+                  "color": [
+                    255,
+                    255,
+                    0,
+                    150
+                  ],
+                  "width": 1,
+                  "style": "esriSLSSolid"
+                },
+                "style": "esriSFSSolid"
+              }
+            }
+          }
+        }
+      }
+    },
+    "widget_120": {
+      "uri": "widgets/identify-custom1.14/identify-custom/",
+      "version": "1.12.0",
+      "label": "Identify",
+      "config": {
+        "sidebarWidgetId": 120
+      },
+      "id": "widget_120",
+      "useMapWidgetIds": [
+        "widget_11"
+      ]
+    }
+  },
+  "exbVersion": "1.19.0",
+  "mainSizeMode": "LARGE",
+  "theme": "themes/master/",
+  "forBuilderAttributes": {
+    "lockLayout": false,
+    "viewPortSize": {
+      "MEDIUM": {
+        "width": 834,
+        "height": 1112
+      },
+      "SMALL": {
+        "width": 414,
+        "height": 736
+      },
+      "LARGE": {
+        "width": 1920,
+        "height": 1080
+      }
+    }
+  },
+  "template": "08d7d39649f34421a49a7b9e5a5d2f3e",
+  "widgetsManifest": {},
+  "views": {},
+  "sections": {},
+  "dialogs": {
+    "dialog_2": {
+      "id": "dialog_2",
+      "mode": "FIXED",
+      "blockPage": true,
+      "sizeMode": {
+        "LARGE": {
+          "position": "MIDDLE_CENTER",
+          "width": "480px",
+          "height": "360px",
+          "offsetX": 0,
+          "offsetY": 0,
+          "widthMode": "CUSTOM",
+          "heightMode": "CUSTOM"
+        }
+      },
+      "interactionType": null,
+      "interactionStyles": null,
+      "confirmBeforeClose": true,
+      "alwaysShowConfirmation": false,
+      "dialogBackground": {
+        "color": "var(--sys-color-surface-overlay)",
+        "fillType": "fill",
+        "image": {
+          "url": ""
+        }
+      },
+      "overlayColor": "#000000",
+      "layout": {
+        "LARGE": "layout_62"
+      },
+      "index": 0,
+      "isSplash": false,
+      "border": {
+        "color": "var(--sys-color-divider-secondary)",
+        "type": "solid",
+        "width": "2px"
+      },
+      "closeWhenClickOverlay": true,
+      "label": "Window"
+    }
+  },
+  "messageConfigs": {
+    "messageConfig_1": {
+      "id": "messageConfig_1",
+      "widgetId": "widget_11",
+      "messageType": "DATA_RECORDS_SELECTION_CHANGE",
+      "actions": [
+        {
+          "actionId": "widget_6-openSidebar-1764559733803",
+          "widgetId": "widget_6",
+          "sectionId": null,
+          "messageWidgetId": "widget_11",
+          "actionName": "openSidebar",
+          "description": null,
+          "config": {
+            "useDataSources": []
+          },
+          "version": "1.19.0"
+        }
+      ]
+    },
+    "messageConfig_2": {
+      "id": "messageConfig_2",
+      "widgetId": "widget_18",
+      "messageType": "DATA_RECORDS_SELECTION_CHANGE",
+      "actions": [
+        {
+          "actionId": "widget_11-zoomToFeature-1764633195255",
+          "widgetId": "widget_11",
+          "sectionId": null,
+          "messageWidgetId": "widget_18",
+          "actionName": "zoomToFeature",
+          "description": null,
+          "config": {
+            "useDataSource": {
+              "dataSourceId": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c770552-layer-44-19a5c722ed6-layer-37",
+              "mainDataSourceId": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c770552-layer-44-19a5c722ed6-layer-37",
+              "rootDataSourceId": "7718ba0918fc4eca9e5df728dd4f67b5"
+            },
+            "useDataSources": [
+              {
+                "dataSourceId": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c770552-layer-44-19a5c722ed6-layer-37",
+                "mainDataSourceId": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c770552-layer-44-19a5c722ed6-layer-37",
+                "rootDataSourceId": "7718ba0918fc4eca9e5df728dd4f67b5"
+              },
+              {
+                "dataSourceId": "7718ba0918fc4eca9e5df728dd4f67b5-19a7a63b068-layer-61-19a5cc446f2-layer-67",
+                "mainDataSourceId": "7718ba0918fc4eca9e5df728dd4f67b5-19a7a63b068-layer-61-19a5cc446f2-layer-67",
+                "rootDataSourceId": "7718ba0918fc4eca9e5df728dd4f67b5"
+              }
+            ],
+            "goToInitialMapExtentWhenSelectionCleared": false,
+            "useAnyTriggerData": true
+          },
+          "version": "1.19.0",
+          "useDataSources": [
+            {
+              "dataSourceId": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c770552-layer-44-19a5c722ed6-layer-37",
+              "mainDataSourceId": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c770552-layer-44-19a5c722ed6-layer-37",
+              "rootDataSourceId": "7718ba0918fc4eca9e5df728dd4f67b5"
+            },
+            {
+              "dataSourceId": "7718ba0918fc4eca9e5df728dd4f67b5-19a7a63b068-layer-61-19a5cc446f2-layer-67",
+              "mainDataSourceId": "7718ba0918fc4eca9e5df728dd4f67b5-19a7a63b068-layer-61-19a5cc446f2-layer-67",
+              "rootDataSourceId": "7718ba0918fc4eca9e5df728dd4f67b5"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "pageStructure": [
+    {
+      "home": []
+    }
+  ],
+  "controllerPanels": {
+    "widget_5": {
+      "position": "TOP_RIGHT",
+      "width": "374px",
+      "height": "888px",
+      "offsetX": 0,
+      "offsetY": 0,
+      "widthMode": "CUSTOM",
+      "heightMode": "CUSTOM"
+    }
+  },
+  "placeholderInfos": {
+    "1": {
+      "id": 1,
+      "rootContainer": {
+        "type": "pages",
+        "id": "home"
+      },
+      "layoutInfo": {
+        "layoutId": "layout_7",
+        "layoutItemId": "0"
+      },
+      "syncs": {
+        "SMALL": {
+          "layoutId": "layout_51",
+          "layoutItemId": "0"
+        },
+        "MEDIUM": {
+          "layoutId": "layout_41",
+          "layoutItemId": "0"
+        }
+      }
+    }
+  },
+  "publishTimestamp": 1770701377110,
+  "useAutoSortInFixedLayout": true,
+  "header": {
+    "layout": {
+      "LARGE": "layout_56"
+    },
+    "height": {
+      "LARGE": "50px"
+    },
+    "backgroundColor": "var(--primary-200)"
+  },
+  "footer": {
+    "layout": {
+      "LARGE": "layout_57",
+      "SMALL": "layout_58"
+    },
+    "height": {
+      "LARGE": "30px"
+    },
+    "backgroundColor": "var(--primary-200)"
+  },
+  "customTheme": {},
+  "customThemeOptions": {
+    "src": {
+      "primary": {
+        "color": "#8017e1",
+        "harmonize": true
+      },
+      "secondary": {
+        "color": "#9b6a71",
+        "harmonize": true
+      }
+    },
+    "sys": {
+      "color": {
+        "mode": "light",
+        "light": {
+          "secondary": {
+            "main": "#9b6a71"
+          },
+          "primary": {
+            "main": "#8017e1"
+          },
+          "surface": {
+            "background": "var(--ref-palette-neutral-100)",
+            "backgroundText": "var(--ref-palette-neutral-1200)",
+            "backgroundHint": "var(--ref-palette-neutral-1100)",
+            "paper": "var(--ref-palette-neutral-100)",
+            "paperText": "var(--ref-palette-neutral-1200)",
+            "paperHint": "var(--ref-palette-neutral-1100)",
+            "overlay": "var(--ref-palette-neutral-100)",
+            "overlayText": "var(--ref-palette-neutral-1200)",
+            "overlayHint": "var(--ref-palette-neutral-1100)"
+          },
+          "action": {
+            "default": "var(--ref-palette-neutral-100)",
+            "hover": "var(--ref-palette-neutral-100)",
+            "text": "var(--ref-palette-neutral-1200)"
+          }
+        }
+      }
+    }
+  },
+  "attributes": {
+    "portalUrl": "https://huonvalley.maps.arcgis.com",
+    "isWebTier": false,
+    "clientId": "2rH8rhIrxEZxt4CO",
+    "express": false,
+    "title": "Customer Service - DeveloperTesting",
+    "description": "",
+    "type": "Web Experience",
+    "thumbnail": null
+  },
+  "timestamp": 1770700454387,
+  "sharedThemeVariables": {
+    "header": {},
+    "body": {},
+    "button": {},
+    "logo": {
+      "small": "https://huonvalley.maps.arcgis.com/sharing/rest/content/items/5e432caa6bf54a608ae0ffd94cfc7448/data"
+    }
+  },
+  "mainLocale": "en",
+  "dataSources": {
+    "7718ba0918fc4eca9e5df728dd4f67b5": {
+      "type": "WEB_MAP",
+      "itemId": "7718ba0918fc4eca9e5df728dd4f67b5",
+      "id": "7718ba0918fc4eca9e5df728dd4f67b5",
+      "portalUrl": "https://huonvalley.maps.arcgis.com",
+      "sourceLabel": "Customer Service",
+      "childDataSourceJsons": {
+        "19a5c770552-layer-44": {
+          "id": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c770552-layer-44",
+          "type": "GROUP_LAYER",
+          "sourceLabel": "Property",
+          "childDataSourceJsons": {
+            "19a5c722ed6-layer-37": {
+              "id": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c770552-layer-44-19a5c722ed6-layer-37",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "Property_Pathway",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "e415c63d9c5e430fb7e70169c6f101fc",
+              "layerId": "0",
+              "url": "https://services-ap1.arcgis.com/iIenkT3SEVB6kHhF/arcgis/rest/services/Property_Pathway/FeatureServer/0",
+              "query": {
+                "id": "default",
+                "label": "Property_Pathway",
+                "where": {
+                  "logicalOperator": "AND",
+                  "parts": [],
+                  "sql": "",
+                  "displaySQL": ""
+                }
+              },
+              "dataViews": {
+                "dataView_1": {
+                  "id": "dataView_1",
+                  "label": "Data view 1",
+                  "where": {
+                    "logicalOperator": "AND",
+                    "parts": [
+                      {
+                        "type": "SINGLE",
+                        "jimuFieldName": "PID",
+                        "operator": "STRING_OPERATOR_IS",
+                        "valueOptions": {
+                          "isValid": true,
+                          "sourceType": "USER_INPUT",
+                          "inputEditor": "TEXT_BOX",
+                          "value": [
+                            {
+                              "value": "0",
+                              "label": "0"
+                            }
+                          ]
+                        },
+                        "displayType": "NONE",
+                        "askForValueOptions": null,
+                        "displayLabel": null,
+                        "caseSensitive": false
+                      }
+                    ],
+                    "sql": "PID = '0'",
+                    "displaySQL": "(PID = '0')"
+                  }
+                }
+              }
+            },
+            "19a5c71ea64-layer-36": {
+              "id": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c770552-layer-44-19a5c71ea64-layer-36",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "LeasesLicences_HVC",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "7210156d0377488ea04714676d62e77c",
+              "layerId": "0",
+              "url": "https://services-ap1.arcgis.com/iIenkT3SEVB6kHhF/arcgis/rest/services/LeasesLicences_HVC/FeatureServer/0"
+            },
+            "19ab4173681-layer-593": {
+              "id": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c770552-layer-44-19ab4173681-layer-593",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "Cadastre",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "219a6581549a422fbe2571f282bfbc21",
+              "layerId": "0",
+              "url": "https://services-ap1.arcgis.com/iIenkT3SEVB6kHhF/arcgis/rest/services/Cadastre/FeatureServer/0"
+            }
+          },
+          "isHidden": false
+        },
+        "19a5c403eea-layer-12": {
+          "id": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c403eea-layer-12",
+          "type": "GROUP_LAYER",
+          "sourceLabel": "Customer Services",
+          "childDataSourceJsons": {
+            "19a5c3197f9-layer-2": {
+              "id": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c403eea-layer-12-19a5c3197f9-layer-2",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "FoodLicences_Pathway",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "025e45e407f34525a4e9a403979201ba",
+              "layerId": "0",
+              "url": "https://services-ap1.arcgis.com/iIenkT3SEVB6kHhF/arcgis/rest/services/FoodLicences_Pathway/FeatureServer/0"
+            },
+            "19a5c37ac2d-layer-6": {
+              "id": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c403eea-layer-12-19a5c37ac2d-layer-6",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "Part5_Pathway",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "be66b4aadd9f4627a5b50677ef12d3ec",
+              "layerId": "0",
+              "url": "https://services-ap1.arcgis.com/iIenkT3SEVB6kHhF/arcgis/rest/services/Part5_Pathway/FeatureServer/0"
+            },
+            "19a5c38bc4f-layer-7": {
+              "id": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c403eea-layer-12-19a5c38bc4f-layer-7",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "Bins_Pathway",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "43106e0f23614138b68215e5633add35",
+              "layerId": "0",
+              "url": "https://services-ap1.arcgis.com/iIenkT3SEVB6kHhF/arcgis/rest/services/Bins_Pathway/FeatureServer/0"
+            },
+            "19a5c3a24db-layer-8": {
+              "id": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c403eea-layer-12-19a5c3a24db-layer-8",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "Dogs_Pathway",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "0e8c61b04f2944579fbcb14e872976ed",
+              "layerId": "0",
+              "url": "https://services-ap1.arcgis.com/iIenkT3SEVB6kHhF/arcgis/rest/services/Dogs_Pathway/FeatureServer/0"
+            },
+            "19a5c3aa030-layer-9": {
+              "id": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c403eea-layer-12-19a5c3aa030-layer-9",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "Applications_Pathway",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "ac9dac2d1e7e4c629718ea9c7d87adf2",
+              "layerId": "0",
+              "url": "https://services-ap1.arcgis.com/iIenkT3SEVB6kHhF/arcgis/rest/services/Applications_Pathway/FeatureServer/0"
+            },
+            "19a5c329244-layer-4": {
+              "id": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c403eea-layer-12-19a5c329244-layer-4",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "ConservationCovenant LIST - Conservation Covenants",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "b388f430bf1d47ed99650c4375e2d148",
+              "layerId": "27",
+              "url": "https://services.thelist.tas.gov.au/arcgis/rest/services/Public/CadastreAndAdministrative/MapServer/27"
+            },
+            "19a5c32f99c-layer-5": {
+              "id": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c403eea-layer-12-19a5c32f99c-layer-5",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "EnvironmentProtectionNotice_Pathway",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "9423b01e7ca947bbaafc7cfd91c7fe43",
+              "layerId": "0",
+              "url": "https://services-ap1.arcgis.com/iIenkT3SEVB6kHhF/arcgis/rest/services/EnvironmentProtectionNotice_Pathway/FeatureServer/0"
+            },
+            "19a5c3eeb41-layer-10": {
+              "id": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c403eea-layer-12-19a5c3eeb41-layer-10",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "PrivateBurial_Pathway",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "cba4930c9f22477eaecb2cdbbb7f2b57",
+              "layerId": "0",
+              "url": "https://services-ap1.arcgis.com/iIenkT3SEVB6kHhF/arcgis/rest/services/PrivateBurial_Pathway/FeatureServer/0"
+            },
+            "19a5c3f511f-layer-11": {
+              "id": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c403eea-layer-12-19a5c3f511f-layer-11",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "Request_Pathway",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "d181cbb4b1754bcf967c931313973332",
+              "layerId": "0",
+              "url": "https://services-ap1.arcgis.com/iIenkT3SEVB6kHhF/arcgis/rest/services/Request_Pathway/FeatureServer/0"
+            }
+          }
+        },
+        "19a5c5a2569-layer-19": {
+          "id": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c5a2569-layer-19",
+          "type": "GROUP_LAYER",
+          "sourceLabel": "Stormwater",
+          "childDataSourceJsons": {
+            "19a5c59faf5-layer-17": {
+              "id": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c5a2569-layer-19-19a5c59faf5-layer-17",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "StormwaterManholes",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "78ca66349a9440e784b4a8030fa66db1",
+              "layerId": "0",
+              "url": "https://services-ap1.arcgis.com/iIenkT3SEVB6kHhF/arcgis/rest/services/StormwaterManholes/FeatureServer/0"
+            },
+            "19a5c56ce80-layer-14": {
+              "id": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c5a2569-layer-19-19a5c56ce80-layer-14",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "StormwaterPropertyConnections",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "c8d22dabdca94c2d840c145ee2e71e92",
+              "layerId": "0",
+              "url": "https://services-ap1.arcgis.com/iIenkT3SEVB6kHhF/arcgis/rest/services/StormwaterPropertyConnections/FeatureServer/0"
+            },
+            "19a5c575c40-layer-16": {
+              "id": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c5a2569-layer-19-19a5c575c40-layer-16",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "StormwaterPipes",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "63a405f675ba4fb2b9781239cfbcf68a",
+              "layerId": "0",
+              "url": "https://services-ap1.arcgis.com/iIenkT3SEVB6kHhF/arcgis/rest/services/StormwaterPipes/FeatureServer/0"
+            },
+            "19a5c574e72-layer-15": {
+              "id": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c5a2569-layer-19-19a5c574e72-layer-15",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "StormwaterDrains",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "0c7683b645ff43c3bab1e6af418f99f7",
+              "layerId": "0",
+              "url": "https://services-ap1.arcgis.com/iIenkT3SEVB6kHhF/arcgis/rest/services/StormwaterDrains/FeatureServer/0"
+            }
+          }
+        },
+        "19a5c612aa2-layer-24": {
+          "id": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c612aa2-layer-24",
+          "type": "GROUP_LAYER",
+          "sourceLabel": "Tas Water",
+          "childDataSourceJsons": {
+            "19a5c5ba313-layer-20": {
+              "id": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c612aa2-layer-24-19a5c5ba313-layer-20",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "WaterMain TW - TasWater Water Main",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "054356e921a6475cb93447f5d843a349",
+              "layerId": "4",
+              "url": "https://services.thelist.tas.gov.au/arcgis/rest/services/Public/Infrastructure/MapServer/4"
+            },
+            "19a5c5e1ec8-layer-21": {
+              "id": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c612aa2-layer-24-19a5c5e1ec8-layer-21",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "SewerGravityMain TW - TasWater Sewer Main",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "4ab448f615144b6cb4f6385aedb3b207",
+              "layerId": "5",
+              "url": "https://services.thelist.tas.gov.au/arcgis/rest/services/Public/Infrastructure/MapServer/5"
+            },
+            "19a5c5eacf0-layer-23": {
+              "id": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c612aa2-layer-24-19a5c5eacf0-layer-23",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "WaterServicedLand TW - TasWater Water Serviced Land",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "fd85a90538f345e897ed604826591a6e",
+              "layerId": "1",
+              "url": "https://services.thelist.tas.gov.au/arcgis/rest/services/Public/Infrastructure/MapServer/1"
+            },
+            "19a5c5e76e1-layer-22": {
+              "id": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c612aa2-layer-24-19a5c5e76e1-layer-22",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "SewerServicedLand TW - TasWater Sewer Serviced Land",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "85fc98a7fe7a4ca3b39ce246f68f7399",
+              "layerId": "0",
+              "url": "https://services.thelist.tas.gov.au/arcgis/rest/services/Public/Infrastructure/MapServer/0"
+            }
+          }
+        },
+        "19a7a63b068-layer-61": {
+          "id": "7718ba0918fc4eca9e5df728dd4f67b5-19a7a63b068-layer-61",
+          "type": "GROUP_LAYER",
+          "sourceLabel": "Roads",
+          "childDataSourceJsons": {
+            "19a5cc446f2-layer-67": {
+              "id": "7718ba0918fc4eca9e5df728dd4f67b5-19a7a63b068-layer-61-19a5cc446f2-layer-67",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "Roads",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "ced6363dc182436fa4572a0d9c8c8335",
+              "layerId": "0",
+              "url": "https://services-ap1.arcgis.com/iIenkT3SEVB6kHhF/arcgis/rest/services/RoadParent/FeatureServer/0"
+            }
+          }
+        },
+        "19a5c6c13fb-layer-31": {
+          "id": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c6c13fb-layer-31",
+          "type": "GROUP_LAYER",
+          "sourceLabel": "Topological",
+          "childDataSourceJsons": {
+            "19a5c6884ae-layer-26": {
+              "id": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c6c13fb-layer-31-19a5c6884ae-layer-26",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "Contours5m - 5m Contours",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "a6a13b5450d049238414e15102ce70b8",
+              "layerId": "13",
+              "url": "https://services.thelist.tas.gov.au/arcgis/rest/services/Public/TopographyAndRelief/MapServer/13"
+            },
+            "19a5c688c63-layer-27": {
+              "id": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c6c13fb-layer-31-19a5c688c63-layer-27",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "Contours10m - 10m Contours",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "bbae544488ca40b08e16a36450b2316b",
+              "layerId": "12",
+              "url": "https://services.thelist.tas.gov.au/arcgis/rest/services/Public/TopographyAndRelief/MapServer/12"
+            },
+            "19a5c68c63e-layer-28": {
+              "id": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c6c13fb-layer-31-19a5c68c63e-layer-28",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "LiDAR_3mAHD",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "0049fa639fc546bd866fe848c753aa17",
+              "layerId": "0",
+              "url": "https://services-ap1.arcgis.com/iIenkT3SEVB6kHhF/arcgis/rest/services/LiDAR_3mAHD/FeatureServer/0"
+            },
+            "19a5c6a62b0-layer-29": {
+              "id": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c6c13fb-layer-31-19a5c6a62b0-layer-29",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "ProjectedSeaLevelRise",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "fabc7fffbcde434fbe4feac5408c8f9d",
+              "layerId": "0",
+              "url": "https://services-ap1.arcgis.com/iIenkT3SEVB6kHhF/arcgis/rest/services/ProjectedSeaLevelRise/FeatureServer/0"
+            },
+            "19a5c6aedd5-layer-30": {
+              "id": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c6c13fb-layer-31-19a5c6aedd5-layer-30",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "ProjectedStormTide_1AEP",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "26999c03f9004ba9a5aec1b6ba03de13",
+              "layerId": "0",
+              "url": "https://services-ap1.arcgis.com/iIenkT3SEVB6kHhF/arcgis/rest/services/ProjectedStormTide_1AEP/FeatureServer/0"
+            }
+          }
+        },
+        "19a5c71662a-layer-35": {
+          "id": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c71662a-layer-35",
+          "type": "GROUP_LAYER",
+          "sourceLabel": "Hazards",
+          "childDataSourceJsons": {
+            "19a5c7053d8-layer-32": {
+              "id": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c71662a-layer-35-19a5c7053d8-layer-32",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "FloodHazards",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "f4915738dc5544f7a346dce89eb14dec",
+              "layerId": "0",
+              "url": "https://services-ap1.arcgis.com/iIenkT3SEVB6kHhF/arcgis/rest/services/FloodHazards/FeatureServer/0"
+            }
+          }
+        },
+        "19a5c776303-layer-45": {
+          "id": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c776303-layer-45",
+          "type": "GROUP_LAYER",
+          "sourceLabel": "LPS General Overlays",
+          "childDataSourceJsons": {
+            "19a5c75a4b1-layer-39": {
+              "id": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c776303-layer-45-19a5c75a4b1-layer-39",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "SpecificAreaPlan_TPS",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "4ac6071932164fa1af56958584860aac",
+              "layerId": "15",
+              "url": "https://services.thelist.tas.gov.au/arcgis/rest/services/Public/PlanningOnline/MapServer/15"
+            },
+            "19a5c75da19-layer-41": {
+              "id": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c776303-layer-45-19a5c75da19-layer-41",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "SiteSpecificQualifications_TPS",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "7d54972c606c40118d8a979703d4d3e2",
+              "layerId": "15",
+              "url": "https://services.thelist.tas.gov.au/arcgis/rest/services/Public/PlanningOnline/MapServer/15"
+            },
+            "19a5c76109b-layer-43": {
+              "id": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c776303-layer-45-19a5c76109b-layer-43",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "LocalAreaObjectives_TPS",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "a1aa50742532467eb72c88fe736010f8",
+              "layerId": "15",
+              "url": "https://services.thelist.tas.gov.au/arcgis/rest/services/Public/PlanningOnline/MapServer/15"
+            }
+          }
+        },
+        "19a5c7ba3f9-layer-62": {
+          "id": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c7ba3f9-layer-62",
+          "type": "GROUP_LAYER",
+          "sourceLabel": "LPS Code Overlays",
+          "childDataSourceJsons": {
+            "19a5c78a3ef-layer-46": {
+              "id": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c7ba3f9-layer-62-19a5c78a3ef-layer-46",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "BushfireProneAreas_TPS",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "af9ef923e51a4977ac62ece4b4fa21b8",
+              "layerId": "14",
+              "url": "https://services.thelist.tas.gov.au/arcgis/rest/services/Public/PlanningOnline/MapServer/14"
+            },
+            "19a5c78d650-layer-47": {
+              "id": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c7ba3f9-layer-62-19a5c78d650-layer-47",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "FloodProneHazardAreasCode_TPS",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "490facb2c3b646b3a81e48d6368cd8a3",
+              "layerId": "14",
+              "url": "https://services.thelist.tas.gov.au/arcgis/rest/services/Public/PlanningOnline/MapServer/14"
+            },
+            "19a5c7901bc-layer-48": {
+              "id": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c7ba3f9-layer-62-19a5c7901bc-layer-48",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "CommunicationsStationBufferArea_TPS",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "7c0bde929a214882bf6357329cf6a820",
+              "layerId": "14",
+              "url": "https://services.thelist.tas.gov.au/arcgis/rest/services/Public/PlanningOnline/MapServer/14"
+            },
+            "19a5c793597-layer-49": {
+              "id": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c7ba3f9-layer-62-19a5c793597-layer-49",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "SubstationFacilityBufferArea_TPS",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "ea4a66217ff64d58ae6aee0063b97cc2",
+              "layerId": "14",
+              "url": "https://services.thelist.tas.gov.au/arcgis/rest/services/Public/PlanningOnline/MapServer/14"
+            },
+            "19a5c7940a0-layer-50": {
+              "id": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c7ba3f9-layer-62-19a5c7940a0-layer-50",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "SubstationFacility_TPS",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "98331138a4be42af812772452da7eeb0",
+              "layerId": "14",
+              "url": "https://services.thelist.tas.gov.au/arcgis/rest/services/Public/PlanningOnline/MapServer/14"
+            },
+            "19a5c79637c-layer-51": {
+              "id": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c7ba3f9-layer-62-19a5c79637c-layer-51",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "InnerProtectionArea_TPS",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "d84ebe574e3249d2bd22a67bdddc4244",
+              "layerId": "14",
+              "url": "https://services.thelist.tas.gov.au/arcgis/rest/services/Public/PlanningOnline/MapServer/14"
+            },
+            "19a5c7a2870-layer-52": {
+              "id": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c7ba3f9-layer-62-19a5c7a2870-layer-52",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "ElectricityTransmissionCorridor_TPS",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "0901de070510448cbd1871417d5def86",
+              "layerId": "14",
+              "url": "https://services.thelist.tas.gov.au/arcgis/rest/services/Public/PlanningOnline/MapServer/14"
+            },
+            "19a5c7a62e9-layer-53": {
+              "id": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c7ba3f9-layer-62-19a5c7a62e9-layer-53",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "LocalHeritagePlace_TPS",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "05285a26aac349eeaa580242405f1d56",
+              "layerId": "14",
+              "url": "https://services.thelist.tas.gov.au/arcgis/rest/services/Public/PlanningOnline/MapServer/14"
+            },
+            "19a5c7a80fb-layer-54": {
+              "id": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c7ba3f9-layer-62-19a5c7a80fb-layer-54",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "ScenicRoadCorridor_TPS",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "9052c30fd523486f9f65e5e19b51a716",
+              "layerId": "14",
+              "url": "https://services.thelist.tas.gov.au/arcgis/rest/services/Public/PlanningOnline/MapServer/14"
+            },
+            "19a5c7a9183-layer-55": {
+              "id": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c7ba3f9-layer-62-19a5c7a9183-layer-55",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "ScenicProtectionArea_TPS",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "684e45b945374ca78f2545485e224e02",
+              "layerId": "14",
+              "url": "https://services.thelist.tas.gov.au/arcgis/rest/services/Public/PlanningOnline/MapServer/14"
+            },
+            "19a5c7abca6-layer-56": {
+              "id": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c7ba3f9-layer-62-19a5c7abca6-layer-56",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "FutureCoastalRefugiaArea_TPS",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "33f2e37b697c4682916040bf16dae28f",
+              "layerId": "14",
+              "url": "https://services.thelist.tas.gov.au/arcgis/rest/services/Public/PlanningOnline/MapServer/14"
+            },
+            "19a5c7aece4-layer-57": {
+              "id": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c7ba3f9-layer-62-19a5c7aece4-layer-57",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "PriorityVegetationArea_TPS",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "080dbc5c89634ae1ad5eff9278d57cf8",
+              "layerId": "14",
+              "url": "https://services.thelist.tas.gov.au/arcgis/rest/services/Public/PlanningOnline/MapServer/14"
+            },
+            "19a5c7b0c6a-layer-58": {
+              "id": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c7ba3f9-layer-62-19a5c7b0c6a-layer-58",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "WaterwayAndCoastalProtectionArea_TPS",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "d5110a9a8838456d93d7fd084a35c852",
+              "layerId": "14",
+              "url": "https://services.thelist.tas.gov.au/arcgis/rest/services/Public/PlanningOnline/MapServer/14"
+            },
+            "19a5c7b5c99-layer-59": {
+              "id": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c7ba3f9-layer-62-19a5c7b5c99-layer-59",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "CoastalInundationHazardCode_TPS",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "9b5eb9947c994371b187a0574915362f",
+              "layerId": "14",
+              "url": "https://services.thelist.tas.gov.au/arcgis/rest/services/Public/PlanningOnline/MapServer/14"
+            },
+            "19a5c7b6804-layer-60": {
+              "id": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c7ba3f9-layer-62-19a5c7b6804-layer-60",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "CoastalErosionHazardCode_TPS",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "7f23aea2ee1349b4b4327c82c6577afc",
+              "layerId": "14",
+              "url": "https://services.thelist.tas.gov.au/arcgis/rest/services/Public/PlanningOnline/MapServer/14"
+            },
+            "19a5c7b8ee0-layer-61": {
+              "id": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c7ba3f9-layer-62-19a5c7b8ee0-layer-61",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "LandslipHazardCode_TPS",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "3a5e0b0f621f42a8a7df00ecbdefd5b2",
+              "layerId": "14",
+              "url": "https://services.thelist.tas.gov.au/arcgis/rest/services/Public/PlanningOnline/MapServer/14"
+            }
+          }
+        },
+        "19a5c7f02de-layer-65": {
+          "id": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c7f02de-layer-65",
+          "type": "GROUP_LAYER",
+          "sourceLabel": "LPS Zones",
+          "childDataSourceJsons": {
+            "19a5c7ed895-layer-64": {
+              "id": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c7f02de-layer-65-19a5c7ed895-layer-64",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "PlanningZoneBoundaries_TPS",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "2e165f6c1ff74771b8c6449a40e3c72a",
+              "layerId": "16",
+              "url": "https://services.thelist.tas.gov.au/arcgis/rest/services/Public/PlanningOnline/MapServer/16"
+            },
+            "19a5c7ebd25-layer-63": {
+              "id": "7718ba0918fc4eca9e5df728dd4f67b5-19a5c7f02de-layer-65-19a5c7ebd25-layer-63",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "PlanningZones_TPS",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "23c06802d59448a689042689ee9d8e63",
+              "layerId": "13",
+              "url": "https://services.thelist.tas.gov.au/arcgis/rest/services/Public/PlanningOnline/MapServer/13"
+            }
+          }
+        }
+      },
+      "isHidden": false
+    }
+  },
+  "permission": {
+    "restrictions": []
+  },
+  "utilities": {
+    "utility_1": {
+      "id": "utility_1",
+      "type": "GEOCODING",
+      "name": "geocode",
+      "label": "ArcGIS World Geocoding Service",
+      "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer",
+      "source": "org",
+      "orgSetting": {
+        "northLat": "Ymax",
+        "southLat": "Ymin",
+        "eastLon": "Xmax",
+        "westLon": "Xmin",
+        "name": "ArcGIS World Geocoding Service",
+        "batch": true,
+        "placefinding": true,
+        "suggest": true
+      },
+      "taskName": "ArcGIS World Geocoding Service",
+      "index": 0
+    },
+    "utility_2": {
+      "id": "utility_2",
+      "type": "PRINTING",
+      "name": "printTask",
+      "label": "Printing",
+      "url": "https://utility.arcgisonline.com/arcgis/rest/services/Utilities/PrintingTools/GPServer/Export%20Web%20Map%20Task",
+      "source": "org",
+      "orgSetting": {}
+    }
+  }
+}
